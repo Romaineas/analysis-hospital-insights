@@ -1,0 +1,51 @@
+id_medico,nome,especialidade,crm,anos_experiencia,genero,carga_horaria_sem,avaliacao_media
+1,Isis Porto,Clínico Geral,31505/MA,15,M,30,4.16
+2,Sra. Ana Vitória das Neves,Ortopedia,61298/AL,4,M,30,3.68
+3,Rebeca Dias,Ortopedia,34251/AL,7,F,40,4.07
+4,Noah Nunes,Clínico Geral,43334/MG,19,F,40,3.92
+5,Laura Costa,Cardiologia,24859/MS,20,M,40,4.17
+6,Pedro Lucas da Cruz,Pediatria,68370/AL,6,M,30,3.8
+7,Luiza das Neves,Ginecologia,85937/MG,16,M,44,4.4
+8,Carlos Eduardo Peixoto,Cardiologia,28201/SE,26,F,44,3.36
+9,Srta. Yasmin da Costa,Cardiologia,49072/MA,3,M,30,4.39
+10,João Vitor Teixeira,Neurologia,52757/MS,11,F,30,3.82
+11,Marina Azevedo,Ginecologia,86462/TO,25,M,30,4.75
+12,André Fogaça,Ginecologia,33754/PB,19,M,30,4.03
+13,Joaquim Rodrigues,Cardiologia,18885/RJ,28,M,30,4.95
+14,Clara Lima,Dermatologia,71074/RR,14,M,30,4.2
+15,Valentina Lima,Neurologia,21521/GO,6,F,40,3.45
+16,Sra. Ana Beatriz Porto,Neurologia,35055/RR,24,F,40,4.64
+17,Gabriela Caldeira,Ortopedia,36583/CE,25,M,40,3.69
+18,Maria Eduarda Nunes,Ginecologia,50963/ES,2,M,40,3.7
+19,Sra. Maysa Fernandes,Cardiologia,93467/PB,23,F,30,3.06
+20,Kamilly Castro,Ortopedia,99437/RO,2,F,44,4.1
+21,Rodrigo Castro,Clínico Geral,23769/RS,19,F,20,4.07
+22,Vitor Gabriel Gonçalves,Pediatria,17912/AP,16,F,30,3.71
+23,Maysa Ramos,Neurologia,39169/RO,18,M,20,4.79
+24,Kaique Sales,Clínico Geral,70690/RJ,12,F,44,3.26
+25,Diogo Rocha,Clínico Geral,37006/MT,22,M,40,3.66
+26,Maitê Martins,Dermatologia,23391/TO,27,F,44,3.64
+27,Levi Dias,Pediatria,63894/SE,26,F,30,3.18
+28,Sophia Moura,Clínico Geral,96434/AM,23,F,40,3.96
+29,Alícia Nunes,Clínico Geral,22172/RS,28,F,30,4.38
+30,Kevin Monteiro,Pediatria,60240/RN,28,F,40,4.02
+31,Francisco Cardoso,Pediatria,99223/BA,18,M,20,3.31
+32,Alice Rodrigues,Clínico Geral,66828/MA,14,M,20,3.75
+33,Isabella Martins,Pediatria,70952/AL,2,F,20,3.01
+34,Ana Beatriz Correia,Clínico Geral,26628/MS,3,F,44,4.74
+35,Sophia Pereira,Clínico Geral,65819/MG,10,M,30,3.17
+36,Vitor Gabriel Costela,Dermatologia,50425/MT,4,F,44,4.19
+37,Marina da Rosa,Cardiologia,71623/SP,2,F,20,4.97
+38,Carolina da Costa,Clínico Geral,79737/RR,22,M,30,4.07
+39,Alice Viana,Ortopedia,57757/MG,17,F,20,4.85
+40,Bryan Carvalho,Neurologia,61076/RJ,24,F,44,3.47
+41,Noah Vieira,Ginecologia,68647/AL,7,M,44,4.52
+42,Samuel Oliveira,Cardiologia,33985/AC,29,M,44,4.06
+43,Letícia Barbosa,Cardiologia,63697/RS,18,M,20,4.44
+44,Carlos Eduardo Ribeiro,Cardiologia,90043/MG,6,F,30,3.12
+45,Erick Farias,Dermatologia,77505/RS,6,M,30,3.3
+46,Dr. Renan da Rocha,Clínico Geral,34122/DF,7,M,20,3.27
+47,Eloah Ramos,Dermatologia,95549/RS,4,M,30,4.37
+48,Matheus Moura,Clínico Geral,38923/MG,22,M,20,4.69
+49,Heitor Campos,Dermatologia,50900/RR,24,M,30,4.5
+50,Calebe Costa,Dermatologia,39682/CE,6,M,40,3.06

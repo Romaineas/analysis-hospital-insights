@@ -1,0 +1,801 @@
+id_paciente,nome,genero,data_nascimento,idade,faixa_etaria,cidade,estado,plano_saude,data_cadastro
+1,Murilo Cavalcanti,M,1963-07-26,62,61+,Alves da Praia,TO,Unimed,2021-03-02
+2,Nina Castro,F,1970-07-13,55,41-60,Gomes,MT,Unimed,2024-05-21
+3,Sr. Enzo Porto,M,1970-08-04,55,41-60,Dias,AM,Unimed,2022-09-08
+4,Sr. Heitor Moura,M,1937-01-06,88,61+,Campos,MG,Particular,2023-04-09
+5,Luiz Gustavo da Paz,M,2011-03-06,14,0-17,Mendes,RS,Unimed,2024-10-13
+6,Vinicius Monteiro,F,2011-05-09,14,0-17,da Luz,RN,Bradesco Saúde,2023-06-04
+7,Renan Azevedo,M,2023-08-27,2,0-17,Moreira de Pereira,MA,SulAmérica,2021-12-25
+8,Guilherme Mendes,M,1993-06-17,32,26-40,da Paz,AM,SulAmérica,2025-06-21
+9,Dr. Henrique Novaes,M,1994-12-20,30,26-40,Nunes Paulista,CE,Unimed,2023-05-18
+10,Lorenzo Aragão,F,1970-12-12,54,41-60,Monteiro do Galho,AM,Particular,2021-03-25
+11,Thiago das Neves,M,1957-01-27,68,61+,Santos do Amparo,TO,Particular,2024-12-19
+12,Rafael Vieira,M,2007-03-19,18,18-25,da Mata Paulista,CE,Bradesco Saúde,2024-12-21
+13,Luiz Fernando Gomes,M,2010-03-02,15,0-17,das Neves,SC,Unimed,2023-12-21
+14,Júlia Dias,M,1974-02-20,51,41-60,Gonçalves,MG,SulAmérica,2024-05-23
+15,Dra. Mariane Cavalcanti,F,2008-04-12,17,0-17,Fernandes Paulista,RR,Particular,2021-11-23
+16,Gabrielly Sales,M,1944-06-28,81,61+,da Cruz,TO,Unimed,2023-10-30
+17,Enzo Pereira,F,1994-08-09,31,26-40,Souza do Sul,MT,Particular,2022-07-29
+18,Nina Costela,F,1936-02-06,89,61+,Rocha de da Mata,AM,Particular,2022-04-06
+19,Maria Cecília Freitas,F,1942-10-07,83,61+,da Mata de Campos,MA,SulAmérica,2024-02-01
+20,Emanuella Rezende,M,1945-06-09,80,61+,Fernandes de Goiás,RN,Amil,2022-04-02
+21,Sra. Stella Vieira,F,1943-05-25,82,61+,Lopes,GO,Bradesco Saúde,2021-04-03
+22,Theo Ribeiro,M,1944-10-10,81,61+,Almeida,AM,Bradesco Saúde,2024-08-11
+23,Sophie Barbosa,F,1958-11-17,66,61+,Viana,PI,SulAmérica,2024-10-14
+24,Larissa Porto,F,1979-06-24,46,41-60,Rezende de Minas,RR,Particular,2024-08-07
+25,Guilherme Cunha,F,1960-01-03,65,61+,Nascimento Alegre,AP,Unimed,2022-12-31
+26,Sr. João Miguel Silva,F,1964-11-08,60,41-60,Ribeiro Paulista,SE,Particular,2025-05-24
+27,João Guilherme Nascimento,F,1974-07-17,51,41-60,da Mota,ES,SulAmérica,2023-03-11
+28,Otávio Mendes,F,1994-09-13,31,26-40,Campos,TO,Bradesco Saúde,2022-06-24
+29,Francisco Alves,F,1944-03-04,81,61+,Moreira,MT,Particular,2021-05-30
+30,Sra. Maria Alice Rocha,F,1951-06-27,74,61+,Gonçalves,AP,Bradesco Saúde,2023-04-13
+31,Helena Gomes,M,1952-05-04,73,61+,da Rosa,SC,Unimed,2021-10-09
+32,Manuela Fernandes,M,2013-08-31,12,0-17,da Costa das Flores,SE,Bradesco Saúde,2022-10-09
+33,Vitor Moraes,F,2019-11-13,5,0-17,Pires de Araújo,AC,Bradesco Saúde,2024-11-16
+34,Juan Castro,F,1956-01-31,69,61+,Melo de Minas,RN,Amil,2024-03-07
+35,Sophie Teixeira,F,1964-11-22,60,41-60,Peixoto,MG,Amil,2023-09-01
+36,Felipe da Rosa,M,1951-07-06,74,61+,Azevedo,MT,Amil,2023-10-24
+37,Murilo Almeida,F,1964-04-29,61,61+,Viana da Prata,RO,Bradesco Saúde,2023-12-19
+38,Emanuella Cardoso,M,1976-02-25,49,41-60,Silveira,RO,SulAmérica,2022-09-23
+39,Lucas Duarte,M,2011-04-24,14,0-17,Fogaça de Ramos,AC,Bradesco Saúde,2021-11-21
+40,Clara Jesus,M,2018-05-03,7,0-17,Peixoto de Minas,MG,SulAmérica,2021-08-13
+41,Marcos Vinicius das Neves,M,1991-12-01,33,26-40,Viana do Amparo,PI,SulAmérica,2023-07-25
+42,Maria Eduarda Cunha,M,1939-12-21,85,61+,Farias Grande,PR,Amil,2024-10-06
+43,Stella Costela,F,1958-01-31,67,61+,Silveira,PE,Particular,2021-11-20
+44,Luiz Otávio da Mata,F,1951-11-05,73,61+,da Rocha,MA,Unimed,2024-09-26
+45,Davi Lucca da Costa,F,1976-11-20,48,41-60,Pinto Grande,RR,Amil,2025-08-29
+46,Maria Sophia Rezende,F,1994-05-04,31,26-40,Rocha de Goiás,MS,Amil,2023-09-23
+47,Dr. Francisco Martins,F,1951-09-27,74,61+,Ramos das Flores,AC,Particular,2024-06-21
+48,Daniela Novaes,M,1975-03-25,50,41-60,da Mata de Freitas,DF,Unimed,2022-04-10
+49,Miguel Farias,F,1975-11-02,50,41-60,Nogueira do Amparo,AM,Bradesco Saúde,2021-06-18
+50,Paulo Cavalcanti,F,2001-10-10,24,18-25,Costa dos Dourados,MA,Bradesco Saúde,2024-01-17
+51,Juan Vieira,M,1941-06-07,84,61+,Vieira do Oeste,RO,Amil,2020-11-10
+52,Maitê Dias,F,2020-06-23,5,0-17,Rezende dos Dourados,RN,Unimed,2022-08-29
+53,Igor Cardoso,M,1984-01-01,41,41-60,Castro,CE,Amil,2025-05-21
+54,Elisa Nogueira,F,1975-12-04,49,41-60,Vieira da Mata,RN,SulAmérica,2021-01-02
+55,Júlia Teixeira,M,1936-12-04,88,61+,Fernandes da Serra,PI,Amil,2022-04-06
+56,Luiz Gustavo Costela,F,1955-01-05,70,61+,Araújo,DF,Amil,2025-05-28
+57,Maria Julia Sales,F,1982-01-03,43,41-60,Ramos de Ferreira,SP,Bradesco Saúde,2023-06-24
+58,Bárbara da Rocha,M,1980-05-30,45,41-60,Dias da Mata,MG,Bradesco Saúde,2025-08-19
+59,João Lucas Mendes,M,2000-04-10,25,18-25,Santos de Dias,TO,Bradesco Saúde,2025-02-28
+60,Ian Alves,M,2009-03-10,16,0-17,Monteiro do Campo,ES,SulAmérica,2024-02-13
+61,Joana Carvalho,M,1969-10-29,56,41-60,Ribeiro do Oeste,MS,Bradesco Saúde,2021-08-13
+62,Srta. Marina Campos,M,1958-03-03,67,61+,da Mota do Campo,AC,Unimed,2021-06-02
+63,Srta. Sofia Pereira,M,2000-08-31,25,18-25,Azevedo das Pedras,SP,Particular,2022-05-27
+64,Dr. Marcelo Alves,M,1976-09-16,49,41-60,da Conceição,PI,Unimed,2023-12-18
+65,Sr. Luiz Henrique Azevedo,M,1980-08-16,45,41-60,da Mota de Moura,PR,Unimed,2023-12-20
+66,Igor Peixoto,F,1957-01-10,68,61+,da Luz Alegre,RS,Bradesco Saúde,2024-02-15
+67,Ana Clara Barbosa,F,1956-05-22,69,61+,da Rocha,AL,Particular,2022-12-22
+68,Brenda Monteiro,M,1974-12-05,50,41-60,da Luz Verde,GO,Particular,2024-10-09
+69,Bianca Ferreira,F,1982-08-21,43,41-60,Novaes,SE,Particular,2021-03-05
+70,Sra. Heloísa Oliveira,F,2015-08-08,10,0-17,Silveira do Galho,ES,SulAmérica,2024-12-02
+71,Sr. João Lucas Lima,F,1944-06-08,81,61+,Moraes,PR,Bradesco Saúde,2021-07-24
+72,Augusto Pires,F,1939-01-01,86,61+,da Cunha,MG,Particular,2022-11-05
+73,Thales Castro,M,2003-04-10,22,18-25,Dias,RR,SulAmérica,2023-04-18
+74,Davi Lucas Ramos,F,1944-06-02,81,61+,Porto,MS,Amil,2024-07-11
+75,Eduardo Azevedo,M,1990-05-06,35,26-40,Sales,AP,Amil,2024-10-11
+76,Nathan da Costa,F,1981-04-12,44,41-60,da Rosa,MS,SulAmérica,2024-07-04
+77,Dr. Miguel Barros,F,1986-01-13,39,26-40,Jesus,AP,SulAmérica,2022-05-27
+78,Maria Clara da Rosa,F,1973-07-11,52,41-60,da Rocha,AM,Bradesco Saúde,2025-06-16
+79,Ana Sophia Duarte,M,2010-06-27,15,0-17,da Mota das Flores,AC,Bradesco Saúde,2023-01-11
+80,Enzo Gabriel Farias,F,1962-10-05,63,61+,Fernandes,GO,Amil,2021-08-02
+81,Thiago Duarte,M,1946-07-25,79,61+,Fernandes do Amparo,PR,Particular,2023-06-05
+82,Pietro Ferreira,F,2015-10-11,10,0-17,Martins da Praia,CE,Amil,2024-02-09
+83,Enrico da Costa,M,1964-01-11,61,61+,Cardoso do Sul,PA,Particular,2022-01-16
+84,Isis Duarte,F,1973-10-07,52,41-60,Pereira da Prata,RS,Particular,2025-01-04
+85,Miguel da Mota,M,2023-01-12,2,0-17,Nascimento das Flores,SE,Bradesco Saúde,2022-02-10
+86,Enzo da Paz,M,1971-07-31,54,41-60,Barros da Serra,AL,Unimed,2022-02-20
+87,Benício Carvalho,F,2006-06-01,19,18-25,Alves das Flores,RJ,Unimed,2023-09-05
+88,Ana Beatriz Araújo,M,1973-11-04,51,41-60,Martins Alegre,PI,SulAmérica,2021-07-05
+89,João Felipe Pereira,F,1947-02-03,78,61+,Viana,ES,Bradesco Saúde,2023-07-17
+90,Raquel Moura,F,1950-11-19,74,61+,Almeida de Lima,PR,Particular,2021-06-16
+91,Ana Júlia Barros,F,1948-08-30,77,61+,Gonçalves Paulista,AM,Unimed,2022-02-23
+92,Isadora Barbosa,F,1946-03-10,79,61+,Moreira Grande,PA,Particular,2023-11-04
+93,Luna Ramos,F,1936-12-28,88,61+,Santos,MG,Unimed,2022-02-17
+94,Levi Moraes,F,1935-01-13,90,61+,da Cunha,AM,Unimed,2023-05-31
+95,Dra. Joana da Mata,F,2016-09-21,9,0-17,Aragão Grande,DF,Unimed,2023-01-21
+96,Sr. Antônio Rodrigues,F,1998-04-10,27,26-40,Peixoto,PE,Bradesco Saúde,2021-04-29
+97,Esther Silva,F,1991-06-30,34,26-40,da Mota,RN,Amil,2022-01-11
+98,Lucas Nunes,F,1966-07-22,59,41-60,Costela,AM,Particular,2022-03-12
+99,Larissa Gomes,F,1968-03-17,57,41-60,Alves de Gomes,RS,Bradesco Saúde,2023-11-22
+100,Dr. Henrique da Conceição,M,1977-06-08,48,41-60,Fogaça Verde,MG,Bradesco Saúde,2022-03-04
+101,Caroline da Paz,M,1994-11-01,31,26-40,Nunes,TO,Bradesco Saúde,2024-04-12
+102,Milena Nunes,F,1976-05-05,49,41-60,Rocha Grande,TO,Bradesco Saúde,2023-03-25
+103,Diego Campos,F,1945-01-10,80,61+,Barbosa,PI,Bradesco Saúde,2021-03-28
+104,Isadora Nunes,F,1942-02-17,83,61+,Farias do Amparo,SC,SulAmérica,2021-04-18
+105,Elisa da Rosa,F,1983-10-10,42,41-60,Silva,RS,Particular,2023-09-15
+106,Isaac Teixeira,F,1988-03-06,37,26-40,Gonçalves,CE,Bradesco Saúde,2021-08-03
+107,Sra. Alice Ribeiro,F,1955-12-11,69,61+,Rodrigues,MA,Particular,2025-08-20
+108,Srta. Ana Carolina Santos,F,1992-10-16,33,26-40,Freitas,SE,SulAmérica,2023-08-29
+109,João Felipe Porto,F,1959-01-12,66,61+,Porto,TO,SulAmérica,2025-04-15
+110,Yago Gonçalves,M,1953-09-26,72,61+,Castro,AC,Particular,2022-12-28
+111,Dr. Yuri Correia,F,1966-08-06,59,41-60,Monteiro,MS,Unimed,2021-03-02
+112,Valentina da Cunha,M,2022-06-22,3,0-17,Caldeira,TO,Amil,2023-11-01
+113,Eloah Gomes,F,1999-06-26,26,26-40,Costa do Amparo,BA,Unimed,2021-07-30
+114,Ryan Souza,F,1958-09-22,67,61+,Dias,AC,Unimed,2023-02-05
+115,Nina Oliveira,M,1990-07-18,35,26-40,Barbosa de da Mota,PB,Unimed,2022-10-03
+116,Lucas Jesus,F,1986-03-01,39,26-40,Castro,CE,Bradesco Saúde,2022-02-01
+117,Vitor Hugo Rodrigues,M,1955-09-16,70,61+,da Rosa de Porto,SE,SulAmérica,2024-08-15
+118,Daniel Monteiro,F,1987-07-11,38,26-40,Rocha,CE,Unimed,2022-06-07
+119,Enzo Dias,F,2000-08-21,25,18-25,Nogueira do Amparo,RR,SulAmérica,2021-10-31
+120,Pedro Henrique Cunha,M,1938-08-15,87,61+,Azevedo,CE,Particular,2025-09-07
+121,Rafaela da Cruz,F,1964-01-03,61,61+,Rodrigues do Oeste,TO,Amil,2022-06-19
+122,Sr. Augusto Azevedo,M,1977-06-21,48,41-60,Melo de Costa,RN,Particular,2021-11-13
+123,Maitê Costela,F,1976-07-14,49,41-60,da Cruz da Serra,SP,Particular,2022-11-01
+124,Carlos Eduardo Pereira,M,1949-04-16,76,61+,Barbosa,PE,Bradesco Saúde,2025-11-01
+125,Srta. Sofia Silveira,M,1958-09-20,67,61+,Dias,SE,Amil,2023-03-28
+126,Raquel Pereira,F,1983-08-12,42,41-60,Azevedo do Sul,PB,Particular,2024-06-17
+127,Luiz Felipe Araújo,F,1986-12-31,38,26-40,Fernandes,RN,Particular,2022-09-15
+128,Pedro Miguel Martins,M,1967-09-13,58,41-60,Oliveira,DF,Amil,2020-11-21
+129,Srta. Natália da Mota,F,1992-11-03,32,26-40,Freitas da Praia,SP,Amil,2021-04-09
+130,Dr. Arthur Oliveira,F,1986-12-09,38,26-40,Lopes do Norte,AC,Particular,2020-11-03
+131,Matheus Silveira,F,1997-04-21,28,26-40,Freitas da Mata,MS,Amil,2020-11-06
+132,Srta. Ana Julia Farias,M,1957-05-01,68,61+,Correia da Prata,PE,Particular,2021-10-30
+133,Emilly Nunes,M,1997-01-30,28,26-40,Rocha da Serra,GO,Particular,2025-09-14
+134,Lara Viana,M,1935-03-05,90,61+,Araújo da Praia,MT,Bradesco Saúde,2021-05-20
+135,Nina Pires,M,1991-08-12,34,26-40,Castro,AM,Unimed,2021-12-05
+136,Danilo Viana,M,1945-07-02,80,61+,Moreira,AP,Particular,2024-09-28
+137,Emanuella Freitas,M,2007-06-29,18,18-25,Moraes de Gomes,AP,SulAmérica,2021-10-15
+138,Yasmin Cunha,M,2007-06-11,18,18-25,Cunha Alegre,AM,Unimed,2021-01-09
+139,Laura Ramos,M,1970-04-27,55,41-60,da Paz do Norte,MA,Unimed,2025-06-06
+140,Stephany Cunha,M,1967-02-14,58,41-60,Cardoso de da Costa,MS,Unimed,2023-03-16
+141,Olivia Peixoto,F,2002-06-11,23,18-25,Costela,RR,Bradesco Saúde,2021-02-01
+142,Bruno Fernandes,M,1948-08-19,77,61+,Moraes,PA,Particular,2024-02-26
+143,Gabriela Gomes,F,1940-10-12,85,61+,Nogueira,AL,Bradesco Saúde,2023-04-24
+144,Luiz Fernando Araújo,F,1955-04-06,70,61+,Lima de Nogueira,RN,Particular,2021-09-26
+145,Antônio da Conceição,F,1974-09-17,51,41-60,da Rosa Paulista,PE,Bradesco Saúde,2024-08-06
+146,Luigi Santos,M,1991-12-05,33,26-40,Aragão do Norte,PE,Bradesco Saúde,2025-03-31
+147,Alícia Caldeira,M,1957-09-19,68,61+,Pereira da Mata,RR,SulAmérica,2021-01-04
+148,Rodrigo Barbosa,M,1936-06-25,89,61+,Pinto,AP,Bradesco Saúde,2024-02-02
+149,Maria Eduarda Pereira,M,1993-07-20,32,26-40,Ferreira da Serra,MG,Amil,2021-08-15
+150,Dr. Vicente Campos,F,1938-01-14,87,61+,Vieira de Minas,SE,SulAmérica,2021-02-12
+151,André da Rosa,M,1964-02-04,61,61+,Silva,AL,Bradesco Saúde,2024-04-01
+152,Yago Cardoso,M,1988-03-06,37,26-40,da Rosa,AM,Unimed,2025-09-17
+153,Sr. Isaac Melo,M,1987-03-17,38,26-40,Campos,MA,Amil,2022-04-01
+154,Sofia Alves,M,1997-10-02,28,26-40,Ramos Grande,DF,Amil,2023-05-04
+155,Luiz Gustavo Castro,M,1959-10-12,66,61+,Barros,AC,Amil,2021-08-09
+156,Gabriel Jesus,F,1980-06-28,45,41-60,Moura,AP,SulAmérica,2023-10-20
+157,Caio Nascimento,M,1937-11-10,87,61+,Rezende,PR,Bradesco Saúde,2022-01-26
+158,Dra. Beatriz Farias,F,1942-02-09,83,61+,da Rocha da Praia,ES,Bradesco Saúde,2022-06-07
+159,Marina Castro,M,1990-08-07,35,26-40,Martins da Prata,RS,Unimed,2023-11-24
+160,Yago Melo,F,2003-01-14,22,18-25,da Rocha da Prata,PI,Unimed,2024-11-03
+161,Vitor da Rosa,M,1938-12-13,86,61+,Dias,DF,Amil,2023-08-19
+162,Heitor Barros,M,1966-11-14,58,41-60,Caldeira,AL,Unimed,2022-11-05
+163,Luiz Felipe Costa,F,1953-10-15,72,61+,da Paz,RJ,SulAmérica,2021-07-11
+164,Kamilly Melo,F,1946-10-11,79,61+,Dias de Goiás,BA,Bradesco Saúde,2021-01-01
+165,Francisco Jesus,F,2019-05-07,6,0-17,Rocha Verde,GO,Amil,2021-08-20
+166,Srta. Ana Laura da Paz,M,1995-04-09,30,26-40,da Cruz,AC,Unimed,2021-01-26
+167,Lorena da Costa,F,1996-12-21,28,26-40,Almeida de Ferreira,MS,SulAmérica,2022-06-25
+168,Dr. João Pires,M,1969-07-08,56,41-60,Silva do Oeste,PR,SulAmérica,2023-08-28
+169,Luigi da Mota,M,1942-08-11,83,61+,Pires Alegre,RN,Unimed,2022-04-19
+170,Yuri Ribeiro,F,1935-07-12,90,61+,Cardoso,RR,Bradesco Saúde,2021-07-14
+171,Maria Sophia Lopes,F,1986-06-21,39,26-40,Ramos,AM,Unimed,2023-03-28
+172,Evelyn Dias,M,1980-05-03,45,41-60,da Mata da Mata,AP,Amil,2023-01-01
+173,Diogo Rocha,M,1967-06-15,58,41-60,Gomes do Galho,AM,Unimed,2021-02-19
+174,Luna Caldeira,F,2012-09-27,13,0-17,Silveira,ES,SulAmérica,2023-07-14
+175,Cauê Cunha,F,1941-02-07,84,61+,Pereira de Azevedo,SP,Unimed,2022-02-23
+176,Letícia Dias,F,2023-09-02,2,0-17,da Costa,PI,Bradesco Saúde,2025-10-13
+177,Olivia Moreira,M,1940-04-08,85,61+,Vieira de Nogueira,TO,Particular,2025-07-04
+178,Julia Alves,M,1995-12-13,29,26-40,Moura,BA,Unimed,2022-09-23
+179,Eloah Barbosa,M,1992-11-17,32,26-40,Moura,BA,Bradesco Saúde,2023-12-24
+180,Gabriel Nunes,M,1997-02-21,28,26-40,Cavalcanti de Aragão,BA,Bradesco Saúde,2021-08-18
+181,Matheus Lima,M,1970-07-20,55,41-60,Carvalho,AC,SulAmérica,2025-07-13
+182,Anthony Silva,M,1959-11-21,65,61+,Silva de Minas,DF,Bradesco Saúde,2024-06-15
+183,Sra. Helena Teixeira,F,1990-12-16,34,26-40,da Luz Paulista,PI,Bradesco Saúde,2024-12-27
+184,Sr. João Pedro Melo,M,2005-08-07,20,18-25,da Cruz,MA,Bradesco Saúde,2023-09-02
+185,Luiz Otávio Alves,M,1973-05-14,52,41-60,da Paz,ES,Bradesco Saúde,2023-11-03
+186,Srta. Ana Beatriz Novaes,M,1970-10-24,55,41-60,Barbosa Grande,SE,Amil,2025-08-31
+187,Heitor da Mota,F,2017-02-02,8,0-17,Pereira,CE,Amil,2022-07-26
+188,Anthony Moreira,M,1966-02-10,59,41-60,Vieira,MG,SulAmérica,2025-09-17
+189,Luigi Costela,M,1976-08-01,49,41-60,Fernandes,TO,Unimed,2024-06-16
+190,Benjamin Melo,F,2011-04-19,14,0-17,Rocha do Amparo,PA,Bradesco Saúde,2021-11-13
+191,Brenda Pinto,M,1996-07-29,29,26-40,Cunha,DF,Unimed,2025-08-24
+192,Ana Carolina Cardoso,M,1978-02-01,47,41-60,Silveira de Goiás,MG,Unimed,2022-02-04
+193,Luana Sales,M,1998-06-07,27,26-40,Jesus,MT,SulAmérica,2024-05-08
+194,Ana Clara Pinto,M,2012-03-18,13,0-17,Jesus,MS,Bradesco Saúde,2022-02-04
+195,Alice Jesus,M,2022-12-31,2,0-17,Monteiro de Aragão,PR,Bradesco Saúde,2024-05-27
+196,Igor Pereira,F,2005-12-11,19,18-25,Araújo,AM,Particular,2021-01-21
+197,Brenda Cavalcanti,F,2012-07-31,13,0-17,Rezende,RN,Unimed,2023-01-21
+198,Renan Santos,F,1963-11-05,61,61+,Caldeira de Minas,RS,Unimed,2024-03-09
+199,Vitor Peixoto,M,1988-10-26,37,26-40,Teixeira,RN,Amil,2022-01-20
+200,Stella Nunes,M,1939-01-22,86,61+,Barros do Campo,MT,Particular,2025-10-17
+201,Júlia da Costa,M,1961-01-24,64,61+,Silveira da Serra,SC,Amil,2021-09-13
+202,Diego Vieira,F,1995-06-07,30,26-40,Rocha do Campo,SP,Amil,2022-01-19
+203,Dr. Henrique Fogaça,M,2017-07-24,8,0-17,Carvalho de Minas,AP,Amil,2022-02-06
+204,Stephany Rodrigues,M,1954-10-26,71,61+,Moura,RS,SulAmérica,2023-08-06
+205,Emanuella Costa,F,2011-12-18,13,0-17,Costela,RR,SulAmérica,2023-08-31
+206,Gabriel Araújo,M,2006-10-30,19,18-25,Pereira,RR,Amil,2021-10-12
+207,Theo Silva,F,1961-05-16,64,61+,Peixoto de Silveira,SC,Particular,2025-06-12
+208,João Vieira,F,1964-09-27,61,61+,Fogaça,ES,Unimed,2025-06-06
+209,Sabrina Souza,F,2015-03-04,10,0-17,Teixeira Paulista,MG,Particular,2025-09-19
+210,Davi Luiz da Conceição,M,2008-03-05,17,0-17,Monteiro,PI,Bradesco Saúde,2022-02-12
+211,Vinicius da Conceição,M,1968-07-05,57,41-60,da Costa da Mata,GO,SulAmérica,2023-03-25
+212,Vitória Peixoto,M,2024-02-22,1,0-17,Almeida,MG,Unimed,2025-07-03
+213,André Cunha,M,2017-05-23,8,0-17,Gomes Verde,RN,Unimed,2021-11-27
+214,Dr. Renan Nunes,M,1953-10-20,72,61+,Vieira de Melo,CE,Bradesco Saúde,2023-06-21
+215,Sr. João Miguel Moura,M,2017-03-14,8,0-17,Ramos da Prata,PI,Bradesco Saúde,2022-09-13
+216,Felipe Souza,M,1984-10-21,41,41-60,Gomes da Praia,SC,Amil,2020-11-23
+217,Luigi Lima,F,1997-02-07,28,26-40,da Mata,AP,SulAmérica,2021-01-11
+218,Camila Castro,M,2015-12-15,9,0-17,Correia de Porto,SC,SulAmérica,2023-06-05
+219,Theo Duarte,F,1999-04-21,26,26-40,da Costa de Nunes,PE,Particular,2024-06-30
+220,Vitor Hugo Mendes,M,1996-05-19,29,26-40,da Conceição,RN,Amil,2022-02-05
+221,Benício Araújo,M,2017-04-04,8,0-17,Gomes das Flores,PA,Amil,2023-09-12
+222,Ana Lívia Rodrigues,M,1942-03-04,83,61+,Viana,MG,Amil,2023-05-27
+223,Lorena da Paz,F,1993-02-22,32,26-40,Sales do Amparo,SC,Amil,2022-11-18
+224,Nicole Aragão,F,2003-09-29,22,18-25,Costa de Minas,CE,SulAmérica,2025-09-01
+225,Benjamin Barbosa,F,1975-10-20,50,41-60,Barbosa da Prata,RR,SulAmérica,2023-04-18
+226,Eduardo Nascimento,F,2003-11-03,21,18-25,Melo da Praia,AM,Amil,2025-02-11
+227,Davi Lopes,M,1939-09-10,86,61+,Ramos,MG,Particular,2024-03-04
+228,Vitória Rezende,F,1993-10-20,32,26-40,Araújo,TO,Unimed,2022-02-04
+229,Juan das Neves,M,1987-02-05,38,26-40,Ferreira da Mata,PE,Unimed,2025-03-05
+230,Stella Mendes,M,1947-07-12,78,61+,Fernandes Alegre,RS,Particular,2024-04-19
+231,Dra. Bruna da Cunha,F,2008-12-14,16,0-17,Viana,GO,Amil,2024-09-21
+232,João Guilherme das Neves,F,2008-10-08,17,0-17,Correia,SP,SulAmérica,2022-01-28
+233,Yasmin Costela,F,1972-03-11,53,41-60,Fernandes,AM,Unimed,2022-09-13
+234,Sr. João Pedro Sales,F,2017-03-08,8,0-17,Pires,AL,Bradesco Saúde,2024-09-11
+235,Emanuel Alves,F,1968-04-16,57,41-60,Ferreira de da Conceição,PI,Bradesco Saúde,2023-07-18
+236,Pedro Ramos,F,1994-07-23,31,26-40,Martins da Mata,MG,Particular,2024-05-01
+237,Yasmin Barbosa,F,2012-05-15,13,0-17,Farias,MA,Amil,2024-03-29
+238,Marcelo Pires,F,1985-03-27,40,26-40,Campos do Galho,AP,Unimed,2021-04-14
+239,Fernanda Araújo,M,1961-11-30,63,61+,Costa,BA,Amil,2021-06-30
+240,Sophia Lima,F,1982-05-27,43,41-60,da Cruz das Flores,PI,Unimed,2025-05-15
+241,Catarina Lima,F,1965-05-23,60,41-60,Melo de Nascimento,SE,Particular,2023-02-05
+242,Alexandre Monteiro,M,1969-12-18,55,41-60,Farias de Freitas,TO,Particular,2025-05-29
+243,Antônio da Rocha,F,2010-10-18,15,0-17,Silveira,PR,Bradesco Saúde,2022-02-15
+244,Sr. Thales Cavalcanti,M,1973-04-20,52,41-60,Santos do Galho,RO,Amil,2025-11-01
+245,Luiza Silva,M,1940-01-12,85,61+,Rezende de Pinto,MT,Bradesco Saúde,2025-02-03
+246,Maria Vitória da Rosa,F,2017-02-02,8,0-17,Peixoto do Sul,MA,Amil,2021-11-18
+247,Marcelo da Costa,M,1948-06-13,77,61+,da Conceição,MT,Bradesco Saúde,2022-09-14
+248,Sr. Kaique Rezende,M,1958-01-06,67,61+,Azevedo do Oeste,SE,SulAmérica,2022-11-09
+249,Milena Alves,M,1935-06-22,90,61+,Cunha de Alves,ES,SulAmérica,2025-04-16
+250,Calebe Porto,M,1992-01-14,33,26-40,Lima,TO,SulAmérica,2021-06-03
+251,Thiago Duarte,F,1969-06-26,56,41-60,Teixeira de da Cruz,PI,SulAmérica,2024-07-12
+252,Arthur Costa,M,1966-08-26,59,41-60,Farias de Cunha,DF,Unimed,2022-01-23
+253,Dr. Murilo Jesus,F,1966-12-28,58,41-60,Santos do Campo,DF,SulAmérica,2023-07-23
+254,Anthony Carvalho,M,2004-12-10,20,18-25,Fernandes do Oeste,RJ,Particular,2022-07-29
+255,Maysa Almeida,M,2018-06-26,7,0-17,Martins Verde,TO,Particular,2021-05-03
+256,Isabel Rodrigues,M,1998-03-10,27,26-40,Ferreira de Viana,MG,Unimed,2025-03-07
+257,Vitória Ramos,M,2007-10-01,18,18-25,Silva do Galho,RN,SulAmérica,2023-12-02
+258,Sr. João Felipe Nogueira,F,1973-01-04,52,41-60,Porto,RN,SulAmérica,2022-03-30
+259,Eloah Moraes,F,1959-01-06,66,61+,Carvalho do Amparo,MG,SulAmérica,2022-03-20
+260,Luana Rezende,M,1965-10-23,60,41-60,Silveira,PI,Bradesco Saúde,2024-08-12
+261,Benjamin das Neves,M,1936-12-01,88,61+,Santos,RN,Amil,2022-01-23
+262,Marcos Vinicius Pinto,F,1983-04-07,42,41-60,da Mata Paulista,AC,Bradesco Saúde,2024-03-10
+263,Rebeca Alves,M,2025-01-07,0,0-17,da Cruz,AC,Amil,2023-06-02
+264,Anthony Cavalcanti,M,2019-12-22,5,0-17,Castro,AM,SulAmérica,2022-08-14
+265,Thiago Porto,M,1963-07-24,62,61+,Aragão Verde,MT,SulAmérica,2025-06-09
+266,Noah Fogaça,F,2018-11-01,7,0-17,Ferreira,RJ,Bradesco Saúde,2021-06-17
+267,Bryan Ribeiro,F,1979-02-06,46,41-60,Costa Paulista,PR,Bradesco Saúde,2023-12-14
+268,Dr. Theo Porto,F,1993-09-21,32,26-40,Martins,SC,Amil,2023-07-14
+269,Maysa Lopes,M,1983-01-21,42,41-60,Jesus de Farias,PA,Particular,2022-06-02
+270,Calebe Sales,M,1968-07-04,57,41-60,Lopes,AL,Amil,2023-11-15
+271,Sophie da Mata,F,1998-02-04,27,26-40,Cavalcanti,AP,Bradesco Saúde,2024-05-22
+272,Esther Farias,F,1988-01-20,37,26-40,Nascimento,CE,Bradesco Saúde,2024-10-15
+273,Ian Novaes,F,1957-09-30,68,61+,Almeida,RO,Unimed,2023-11-02
+274,Sra. Heloísa Costa,F,1991-08-26,34,26-40,Carvalho Verde,ES,Bradesco Saúde,2022-05-01
+275,Letícia Pereira,M,1946-05-08,79,61+,Monteiro da Prata,RO,Unimed,2023-11-01
+276,Antônio Viana,F,1945-04-08,80,61+,Gonçalves de Vieira,ES,Particular,2025-04-07
+277,Joaquim Pereira,M,1942-04-17,83,61+,Alves do Galho,ES,Amil,2022-08-10
+278,Vicente Cunha,F,2005-06-05,20,18-25,Caldeira,AP,Amil,2023-05-31
+279,João Miguel da Conceição,M,1987-03-17,38,26-40,Carvalho das Pedras,CE,Unimed,2025-03-18
+280,Eduarda Costa,F,1966-10-09,59,41-60,Aragão Verde,PI,Amil,2021-10-19
+281,João Almeida,F,1943-07-03,82,61+,Castro,GO,Bradesco Saúde,2023-03-23
+282,Vitor Hugo Martins,F,1998-05-04,27,26-40,Oliveira,TO,SulAmérica,2021-01-04
+283,Marcela das Neves,F,1936-09-26,89,61+,Pinto Alegre,RO,Unimed,2021-12-30
+284,Bárbara Oliveira,M,1944-01-23,81,61+,Souza Verde,MS,Amil,2023-01-29
+285,Kevin da Cunha,F,2013-08-05,12,0-17,Novaes de Nunes,AP,Unimed,2024-11-02
+286,Sr. Gustavo Pires,M,1949-10-23,76,61+,Santos,GO,Unimed,2023-01-06
+287,Olivia Lima,M,1950-04-23,75,61+,Lima,TO,SulAmérica,2022-05-25
+288,Dr. Antônio Freitas,M,2000-07-18,25,18-25,Lopes das Pedras,PR,Bradesco Saúde,2024-11-07
+289,Alexia da Paz,M,2025-02-23,0,0-17,Moraes,RS,Unimed,2024-01-25
+290,Erick Martins,F,1966-12-17,58,41-60,Cavalcanti do Oeste,MA,Amil,2025-04-30
+291,Sophie Alves,M,1943-08-29,82,61+,Novaes,RS,Particular,2021-12-06
+292,Dra. Cecília Moreira,M,1994-11-26,30,26-40,Cardoso Paulista,AP,Unimed,2023-12-14
+293,João Rezende,M,1978-04-05,47,41-60,Moura do Norte,MT,Unimed,2020-11-26
+294,Pietra Porto,F,1973-03-01,52,41-60,Freitas Paulista,AL,SulAmérica,2025-05-21
+295,Thales Cardoso,F,1977-02-15,48,41-60,Moraes,AM,Bradesco Saúde,2025-09-06
+296,Levi Porto,F,1988-11-12,36,26-40,das Neves do Oeste,RR,Particular,2021-10-21
+297,Isis da Mata,F,1993-04-18,32,26-40,Santos da Mata,AP,Amil,2022-12-29
+298,Daniel Castro,M,2020-11-07,4,0-17,Gomes,BA,Particular,2024-07-01
+299,Valentina Fernandes,M,1963-08-07,62,61+,Dias de Cardoso,AP,Amil,2025-04-08
+300,Dr. Cauã Peixoto,F,1995-03-12,30,26-40,Silveira,RJ,Bradesco Saúde,2022-03-05
+301,Maria Luiza Melo,M,1941-07-31,84,61+,Dias,PA,Amil,2021-12-09
+302,Srta. Ana Vitória Martins,M,1960-09-18,65,61+,Sales Paulista,BA,SulAmérica,2021-07-03
+303,Matheus Nascimento,M,1975-02-25,50,41-60,das Neves,DF,SulAmérica,2025-01-01
+304,Srta. Ana Lívia Oliveira,F,1957-12-31,67,61+,da Mota,TO,SulAmérica,2021-08-23
+305,Sr. Fernando da Cunha,F,2010-08-11,15,0-17,Viana do Amparo,MT,SulAmérica,2024-03-19
+306,João Gabriel Pereira,M,1991-09-28,34,26-40,Barros de Goiás,DF,Particular,2021-07-26
+307,Marcelo Martins,F,2013-01-14,12,0-17,Silveira,PR,Bradesco Saúde,2022-06-18
+308,Guilherme da Paz,F,1946-10-24,79,61+,Costa de Teixeira,RJ,Amil,2022-06-19
+309,Lorena Pires,F,1975-10-20,50,41-60,Pinto,PB,Amil,2023-04-20
+310,Noah Azevedo,F,1953-02-17,72,61+,Cavalcanti do Campo,AM,SulAmérica,2021-11-08
+311,Bárbara Lopes,F,1997-04-11,28,26-40,Cardoso,RJ,SulAmérica,2022-11-14
+312,Eduarda Nogueira,M,1979-06-16,46,41-60,Costela,ES,Unimed,2024-05-08
+313,Ana Sophia Porto,F,1984-05-20,41,41-60,Caldeira,PR,Bradesco Saúde,2025-06-17
+314,Pietra da Rocha,M,1949-05-25,76,61+,Oliveira,AL,Particular,2025-01-24
+315,Sr. Matheus Oliveira,M,1996-05-25,29,26-40,Costa,GO,Amil,2024-02-28
+316,Esther Caldeira,F,1996-11-24,28,26-40,Campos dos Dourados,PE,Unimed,2024-08-22
+317,Rodrigo Barbosa,M,2016-07-31,9,0-17,Barros,MT,Unimed,2024-06-11
+318,Lívia Nunes,M,2002-03-02,23,18-25,Souza Alegre,PB,Amil,2023-10-06
+319,Lorenzo Moura,M,1952-12-07,72,61+,Lima,RR,Particular,2020-11-13
+320,Fernanda Barbosa,F,1975-10-21,50,41-60,Cardoso de da Mota,GO,Unimed,2025-01-02
+321,Isabelly Vieira,F,1991-07-24,34,26-40,Ramos,PA,Unimed,2022-09-29
+322,Dra. Daniela Ferreira,M,1961-03-29,64,61+,Silva,RJ,Bradesco Saúde,2021-05-01
+323,Ana Beatriz Barbosa,F,2006-08-30,19,18-25,Rezende,PB,Particular,2022-12-20
+324,Kaique Freitas,F,2013-06-27,12,0-17,Cavalcanti de da Mata,DF,Unimed,2022-07-15
+325,Sr. Ryan Freitas,F,1970-06-08,55,41-60,Gonçalves,SE,Particular,2021-08-24
+326,Lucas Gabriel Rezende,F,1958-12-24,66,61+,Cardoso do Amparo,DF,Amil,2024-01-31
+327,Heloísa Martins,M,1996-07-13,29,26-40,Caldeira,RS,SulAmérica,2025-01-09
+328,Juan Castro,M,1979-03-10,46,41-60,Gonçalves,SE,Unimed,2025-07-25
+329,Luiz Henrique Barbosa,F,2006-04-09,19,18-25,Fogaça da Prata,DF,Bradesco Saúde,2024-12-14
+330,Enzo Silva,F,1952-05-27,73,61+,Barros,DF,Amil,2023-09-01
+331,Juan Nunes,M,1947-05-17,78,61+,Nunes de Barros,TO,Particular,2023-05-01
+332,Mariana Castro,M,1952-11-13,72,61+,Souza da Mata,SE,Amil,2025-02-17
+333,Ana Júlia Pinto,F,1998-12-17,26,26-40,Pereira do Campo,MS,Unimed,2020-12-05
+334,Alícia Nascimento,M,1991-01-06,34,26-40,Caldeira,RO,Particular,2024-11-14
+335,Cauê Pinto,F,1992-07-21,33,26-40,Ferreira,MA,SulAmérica,2025-01-01
+336,Francisco Melo,F,2001-08-21,24,18-25,Viana,RS,Amil,2023-03-16
+337,Davi Moreira,M,1995-04-26,30,26-40,Nogueira de Gonçalves,PB,Unimed,2022-11-16
+338,Levi das Neves,M,2024-05-19,1,0-17,Cunha da Mata,SP,Bradesco Saúde,2023-06-23
+339,Sra. Yasmin da Costa,F,1948-07-16,77,61+,Santos de Freitas,MT,Particular,2023-11-13
+340,Pietra Moreira,F,1992-10-09,33,26-40,Azevedo,TO,Amil,2021-12-07
+341,Milena das Neves,M,1963-09-12,62,61+,Martins da Prata,DF,Amil,2021-10-15
+342,Arthur da Rosa,F,1999-11-14,25,18-25,Castro,GO,SulAmérica,2023-10-06
+343,Vitor Gabriel Duarte,M,2019-11-24,5,0-17,Cardoso do Galho,RO,SulAmérica,2021-01-22
+344,Júlia Nunes,F,1951-10-25,74,61+,Nascimento de Goiás,CE,Bradesco Saúde,2023-05-13
+345,Lorenzo da Cunha,M,1979-10-19,46,41-60,Costela,PI,Bradesco Saúde,2023-04-12
+346,Dr. Caio Barros,M,1980-10-16,45,41-60,Rocha do Oeste,CE,Unimed,2024-06-05
+347,Calebe Melo,M,1949-05-20,76,61+,da Rosa,SC,Unimed,2024-03-26
+348,Maitê Santos,F,2016-04-16,9,0-17,da Luz de Goiás,PB,Bradesco Saúde,2024-08-30
+349,Ryan Pereira,F,1986-04-20,39,26-40,Ferreira Paulista,PA,Bradesco Saúde,2025-01-25
+350,Fernando Fogaça,M,1972-04-26,53,41-60,Fogaça,DF,Particular,2025-08-02
+351,Catarina Peixoto,F,1956-12-24,68,61+,Silva de Minas,AL,SulAmérica,2024-06-16
+352,Sr. Vitor Gabriel Santos,M,1941-10-16,84,61+,Araújo,SE,Unimed,2021-02-27
+353,Clara Moura,M,1945-03-24,80,61+,Barros de das Neves,TO,SulAmérica,2022-10-01
+354,Mariane da Rosa,F,1947-09-02,78,61+,Alves,RR,SulAmérica,2020-12-15
+355,Rodrigo Nunes,F,1937-07-01,88,61+,Dias,AP,Bradesco Saúde,2021-09-04
+356,João Miguel Moraes,M,1950-03-02,75,61+,Novaes de Novaes,MT,Particular,2021-05-31
+357,Gabriel Azevedo,F,1951-07-04,74,61+,da Paz,RR,Amil,2024-07-05
+358,Yasmin Rezende,F,1973-04-29,52,41-60,Gonçalves Alegre,TO,Particular,2023-04-18
+359,Dra. Brenda Barbosa,M,2021-04-10,4,0-17,Gonçalves da Serra,PI,Particular,2024-10-31
+360,Pietro Alves,M,1985-05-20,40,26-40,Lopes de Martins,RS,SulAmérica,2023-07-25
+361,Ana Júlia Carvalho,F,1950-01-19,75,61+,da Costa de Goiás,SC,Particular,2021-08-04
+362,Luana Cardoso,M,1983-12-18,41,41-60,Duarte,MS,Unimed,2022-09-04
+363,Marcelo Porto,M,1953-05-16,72,61+,da Conceição do Galho,RR,SulAmérica,2022-12-17
+364,Isis Santos,F,1994-09-12,31,26-40,das Neves do Amparo,BA,Unimed,2023-02-04
+365,Ryan Lima,M,2020-12-07,4,0-17,Campos do Campo,CE,Amil,2024-12-09
+366,Ana Clara Rezende,M,1968-10-05,57,41-60,da Luz,AL,SulAmérica,2025-07-29
+367,Dra. Esther Azevedo,F,1981-12-30,43,41-60,da Cunha da Serra,TO,Amil,2025-01-10
+368,Dr. Cauê Araújo,F,1990-09-26,35,26-40,Dias,AC,SulAmérica,2024-08-28
+369,Marina Moura,M,2025-10-12,0,0-17,Silva,PE,Bradesco Saúde,2024-12-01
+370,Lucca Pires,M,1947-11-05,77,61+,Alves,RR,Particular,2021-05-08
+371,Thiago da Paz,F,2022-12-14,2,0-17,Ramos da Praia,MG,Bradesco Saúde,2020-11-20
+372,Nicolas Nogueira,F,2018-12-05,6,0-17,Nascimento,SP,Amil,2024-08-30
+373,Bruno Gonçalves,F,1994-06-29,31,26-40,Peixoto do Sul,PI,Particular,2024-09-13
+374,Luna Cardoso,F,1951-09-17,74,61+,Lopes,GO,SulAmérica,2023-05-15
+375,Elisa Silveira,M,2014-02-08,11,0-17,Caldeira,RS,Particular,2020-12-26
+376,João Pedro Martins,F,1964-06-12,61,61+,Sales Verde,RO,Unimed,2021-01-29
+377,Dra. Lorena Ferreira,F,1952-10-24,73,61+,Ferreira,MT,Particular,2023-09-24
+378,Enzo Nogueira,M,1987-07-08,38,26-40,Farias,AL,Unimed,2024-10-30
+379,Natália Aragão,F,1937-08-06,88,61+,Moura Alegre,TO,Particular,2024-09-13
+380,Rafaela Cavalcanti,M,2003-11-16,21,18-25,da Cruz,RO,Unimed,2024-01-10
+381,Arthur Barros,F,1938-04-03,87,61+,Ferreira,PR,Amil,2022-05-29
+382,Clarice Correia,F,1941-01-11,84,61+,Fogaça Alegre,DF,Bradesco Saúde,2021-08-09
+383,Kevin Aragão,F,1968-04-02,57,41-60,Costela de Minas,MA,SulAmérica,2023-03-30
+384,Clarice Fernandes,M,2000-09-23,25,18-25,Moura,AP,Particular,2024-10-24
+385,Ryan Silva,M,1953-01-25,72,61+,Rezende,TO,Bradesco Saúde,2021-11-28
+386,Isabelly Pires,F,1973-08-06,52,41-60,Moraes do Amparo,PI,SulAmérica,2021-03-17
+387,Sra. Ana Duarte,M,1991-08-01,34,26-40,Aragão,GO,SulAmérica,2022-03-19
+388,Laís Ribeiro,M,1959-06-08,66,61+,Rezende,PA,Unimed,2022-03-21
+389,Dra. Sophie Pereira,M,1965-11-01,60,41-60,Alves da Prata,RJ,Amil,2024-06-26
+390,Eduarda Viana,M,1935-01-30,90,61+,Rodrigues da Serra,SE,Amil,2021-10-22
+391,Luana da Rosa,M,1995-05-18,30,26-40,Cardoso,RO,Bradesco Saúde,2024-06-22
+392,Noah Novaes,M,2012-12-26,12,0-17,Araújo,AM,Amil,2025-08-05
+393,Maitê da Luz,F,2013-12-30,11,0-17,da Cunha do Norte,ES,Particular,2023-11-24
+394,Mariana Aragão,F,2018-08-16,7,0-17,Lima de Monteiro,AP,Amil,2024-09-09
+395,Maria Vitória Pires,M,1975-11-25,49,41-60,Pinto,AP,Bradesco Saúde,2023-10-18
+396,Matheus Correia,F,1934-11-11,90,61+,Rodrigues,PI,Amil,2024-07-31
+397,Isabelly Carvalho,F,2011-07-31,14,0-17,Mendes,RJ,Particular,2023-05-09
+398,Joana Novaes,F,1992-03-25,33,26-40,Santos,RO,Unimed,2023-11-19
+399,Vicente da Mota,F,1994-05-06,31,26-40,Dias,AP,Bradesco Saúde,2021-07-30
+400,Diogo Sales,M,1983-11-16,41,41-60,da Costa Verde,AC,Unimed,2023-07-27
+401,Larissa Oliveira,F,1982-06-05,43,41-60,Ramos,RS,Unimed,2024-10-28
+402,Luigi Sales,F,1937-03-31,88,61+,Nascimento,MT,Unimed,2020-11-14
+403,Joana da Rosa,M,1951-11-22,73,61+,Caldeira de Goiás,DF,SulAmérica,2024-06-01
+404,Emanuel Pinto,M,2005-10-11,20,18-25,Silveira,AP,SulAmérica,2024-12-02
+405,Srta. Esther da Rocha,F,2001-09-18,24,18-25,Alves,RS,Unimed,2022-06-04
+406,Gabriela Carvalho,F,2023-10-23,2,0-17,Rodrigues,AL,Bradesco Saúde,2022-11-30
+407,Maria Eduarda Souza,F,1947-05-30,78,61+,Teixeira Grande,PA,Particular,2024-09-26
+408,Enrico Rodrigues,F,1935-06-24,90,61+,Nogueira de Castro,PA,Particular,2023-02-17
+409,Isabel Rezende,F,1977-06-04,48,41-60,Jesus,SC,Amil,2023-07-01
+410,Murilo da Paz,F,1937-02-08,88,61+,Pereira do Sul,PR,Bradesco Saúde,2024-12-18
+411,Noah da Cruz,M,1938-09-29,87,61+,Martins de Goiás,MT,SulAmérica,2020-12-24
+412,Dra. Gabrielly Nascimento,F,1953-10-14,72,61+,Nunes,MG,Unimed,2022-04-02
+413,Lara Oliveira,F,1997-03-26,28,26-40,Correia de Pires,AC,Amil,2025-04-03
+414,Luiz Miguel Jesus,M,2004-07-07,21,18-25,da Mata,PA,Particular,2024-04-27
+415,Dr. Luigi Correia,M,1960-01-09,65,61+,Rocha do Galho,ES,SulAmérica,2023-03-31
+416,Ana Lívia Lopes,M,1997-03-13,28,26-40,Lima,RJ,SulAmérica,2024-11-05
+417,Caio da Paz,M,2003-04-26,22,18-25,Ribeiro,MT,Unimed,2025-09-25
+418,Theo Novaes,F,1994-09-13,31,26-40,Ribeiro Paulista,RO,Particular,2021-02-21
+419,Ana Sophia Porto,F,1984-04-08,41,41-60,Costela da Mata,SE,Bradesco Saúde,2021-08-09
+420,Pietra Campos,F,2005-03-06,20,18-25,Caldeira do Galho,RS,SulAmérica,2024-02-05
+421,Dr. Juan Moreira,F,1950-11-24,74,61+,Teixeira,RO,Unimed,2025-08-18
+422,Lívia Costa,F,1992-10-19,33,26-40,Cardoso da Prata,ES,Bradesco Saúde,2021-12-14
+423,Heitor da Costa,F,1981-02-20,44,41-60,Freitas das Flores,PE,Particular,2021-06-18
+424,Srta. Alícia Teixeira,M,1974-09-25,51,41-60,Cunha do Norte,DF,SulAmérica,2021-01-21
+425,Dr. Davi Peixoto,F,2025-04-17,0,0-17,da Conceição,GO,Bradesco Saúde,2021-09-27
+426,Kamilly Souza,M,2013-11-22,11,0-17,da Rocha,RJ,Bradesco Saúde,2021-06-22
+427,João Felipe Jesus,M,2003-09-10,22,18-25,Moura,GO,Bradesco Saúde,2023-01-19
+428,Maria Vitória Lima,F,1941-02-04,84,61+,Nunes dos Dourados,GO,SulAmérica,2022-01-14
+429,Ryan Santos,M,1949-05-05,76,61+,da Costa,RR,SulAmérica,2023-08-18
+430,Ana Carolina Moraes,F,1976-12-05,48,41-60,Monteiro,TO,Amil,2022-03-19
+431,Caroline Silveira,M,1978-12-31,46,41-60,Aragão do Oeste,MT,Particular,2024-01-03
+432,Dra. Isadora Pinto,F,1990-11-08,34,26-40,Correia de Goiás,RJ,Unimed,2025-04-24
+433,Kevin Almeida,M,1942-10-23,83,61+,Cunha,BA,Bradesco Saúde,2021-04-30
+434,Leonardo Carvalho,F,2007-07-16,18,18-25,Peixoto de Goiás,RR,Amil,2024-02-13
+435,Marcelo da Mota,F,2015-02-02,10,0-17,Cunha,RJ,Unimed,2024-03-17
+436,Sra. Stephany Costela,F,2001-09-30,24,18-25,Costa,RR,Amil,2023-11-20
+437,Giovanna Costa,F,1935-03-29,90,61+,Barbosa,DF,SulAmérica,2021-09-06
+438,Francisco Almeida,F,1952-08-31,73,61+,Campos das Pedras,TO,Bradesco Saúde,2025-04-17
+439,Lucca Farias,M,1979-10-04,46,41-60,da Costa de Silveira,PA,Unimed,2024-03-10
+440,Davi Lucas Peixoto,M,2021-10-14,4,0-17,Rodrigues da Serra,ES,Unimed,2025-02-24
+441,Noah Nogueira,M,1938-10-07,87,61+,da Mota,ES,Unimed,2020-11-19
+442,Srta. Beatriz Barros,F,2003-07-01,22,18-25,da Cruz dos Dourados,CE,Unimed,2023-03-01
+443,Diego Duarte,M,1997-03-18,28,26-40,Martins,MS,Unimed,2025-05-26
+444,Sr. Gustavo Peixoto,F,1971-12-14,53,41-60,Pereira de Viana,AP,Amil,2023-09-05
+445,Nathan Oliveira,F,1999-04-10,26,26-40,Rocha do Sul,DF,Bradesco Saúde,2021-10-12
+446,Leandro Fernandes,M,1954-04-17,71,61+,Ribeiro,MA,SulAmérica,2022-12-21
+447,Bárbara Azevedo,M,1934-12-05,90,61+,Barbosa do Galho,GO,SulAmérica,2021-12-25
+448,Ana Laura Nunes,F,1968-07-19,57,41-60,Cavalcanti,GO,SulAmérica,2020-12-25
+449,Sr. Pedro Gomes,M,1952-03-23,73,61+,Caldeira de Ramos,PE,SulAmérica,2024-08-26
+450,Ana Beatriz Ribeiro,F,1996-07-04,29,26-40,Jesus do Norte,SC,Amil,2023-09-05
+451,Dra. Alana Ramos,F,1976-01-21,49,41-60,Campos,RS,Particular,2023-03-05
+452,Ana Clara Campos,F,1956-07-28,69,61+,Rocha das Flores,MS,Bradesco Saúde,2023-07-09
+453,Bárbara Carvalho,F,2011-05-22,14,0-17,Porto,AC,Unimed,2025-10-28
+454,Sr. Luiz Henrique das Neves,F,2000-06-11,25,18-25,Caldeira da Mata,AM,Particular,2025-09-16
+455,Sr. Heitor Viana,M,1965-12-03,59,41-60,Pires,SP,SulAmérica,2021-01-30
+456,Caio da Cunha,M,1982-06-29,43,41-60,Caldeira Paulista,AP,Particular,2023-08-14
+457,Emanuelly da Conceição,F,2017-10-08,8,0-17,Correia de Minas,AC,Bradesco Saúde,2021-10-22
+458,Alexia Monteiro,F,1994-04-16,31,26-40,Costa,MT,Unimed,2021-01-22
+459,Rebeca Nascimento,M,2002-06-14,23,18-25,Peixoto de Goiás,RO,Unimed,2024-09-30
+460,Dra. Isabella Araújo,M,1975-04-29,50,41-60,da Paz,MS,Bradesco Saúde,2021-12-21
+461,João Miguel Ribeiro,F,1978-06-27,47,41-60,Ribeiro,RO,Bradesco Saúde,2025-09-12
+462,Sra. Bianca Cavalcanti,M,1978-07-31,47,41-60,Farias Alegre,MA,SulAmérica,2025-03-07
+463,Erick Farias,F,1997-12-02,27,26-40,da Mata da Praia,AL,Unimed,2022-01-02
+464,Juliana Barbosa,M,1937-09-16,88,61+,Rocha de Moura,SC,Particular,2020-11-07
+465,Alexia Sales,F,2019-10-31,6,0-17,Rezende,RR,Amil,2022-07-15
+466,Pietro Porto,M,1999-08-08,26,26-40,Ferreira Paulista,DF,Amil,2023-04-13
+467,Guilherme Fogaça,F,1999-08-08,26,26-40,Barbosa,PB,Bradesco Saúde,2024-01-31
+468,Luiz Otávio Nogueira,M,1994-11-12,30,26-40,Vieira,RR,SulAmérica,2022-03-27
+469,Gustavo Henrique Viana,M,2014-10-02,11,0-17,Oliveira,RJ,Amil,2021-11-13
+470,Isabel da Cruz,F,1946-06-19,79,61+,Correia do Oeste,CE,Unimed,2022-11-14
+471,Olivia da Rocha,M,1977-07-08,48,41-60,Rocha,RN,Bradesco Saúde,2022-06-23
+472,Natália Rodrigues,F,1942-08-13,83,61+,Pires do Galho,AC,Particular,2024-05-25
+473,Lívia Moraes,M,1960-01-08,65,61+,Silveira,RN,Bradesco Saúde,2021-11-07
+474,Theo da Cunha,F,1960-12-19,64,61+,Freitas,MT,Particular,2024-03-10
+475,Davi Luiz Oliveira,M,2012-09-24,13,0-17,Ramos,MA,Bradesco Saúde,2021-07-03
+476,Miguel Duarte,F,1976-05-01,49,41-60,Monteiro,AC,Bradesco Saúde,2024-06-26
+477,Ian Martins,M,2022-03-04,3,0-17,Silveira Paulista,AC,Bradesco Saúde,2024-03-19
+478,Vinicius da Rocha,F,1984-11-01,41,41-60,Araújo da Serra,TO,Particular,2024-06-16
+479,Nicole Silva,M,1968-02-02,57,41-60,Teixeira,AP,Particular,2023-06-09
+480,Caio Ferreira,F,1965-07-06,60,41-60,Alves de Fogaça,SP,Bradesco Saúde,2024-10-17
+481,Danilo da Luz,F,1961-10-21,64,61+,Santos,AL,Amil,2021-02-23
+482,Luiz Miguel Lopes,F,1950-11-14,74,61+,Cavalcanti Grande,SC,SulAmérica,2022-06-15
+483,Maria Eduarda Gonçalves,M,1980-10-17,45,41-60,Souza,ES,SulAmérica,2023-10-06
+484,Srta. Camila Pinto,F,1991-06-19,34,26-40,Pereira de Goiás,PE,SulAmérica,2022-01-31
+485,Kevin Mendes,M,1980-06-13,45,41-60,Pereira de Fernandes,AC,Particular,2021-11-26
+486,Caroline Cavalcanti,F,2008-10-16,17,0-17,Teixeira de Goiás,GO,Particular,2022-11-29
+487,Alícia Farias,M,1986-10-30,39,26-40,Ferreira de Correia,DF,Amil,2025-03-03
+488,Esther Fogaça,F,2003-07-08,22,18-25,da Mata,PI,SulAmérica,2023-05-03
+489,Pietra das Neves,M,2013-08-09,12,0-17,Moreira do Galho,MG,SulAmérica,2022-12-30
+490,Srta. Stella Alves,M,1994-03-26,31,26-40,da Mota,CE,Bradesco Saúde,2022-05-19
+491,Emilly da Conceição,F,2004-11-02,20,18-25,Pinto de Cardoso,PB,Particular,2025-07-05
+492,Lara Martins,M,1955-06-09,70,61+,das Neves,PB,SulAmérica,2022-09-16
+493,Maria Porto,M,1936-07-31,89,61+,da Cruz,PA,Amil,2021-07-23
+494,Maria Eduarda Novaes,F,2019-12-28,5,0-17,da Mata da Praia,MG,Amil,2024-10-09
+495,Francisco Viana,M,1995-08-26,30,26-40,da Rosa,RS,SulAmérica,2023-06-11
+496,Arthur Moreira,M,1973-03-25,52,41-60,Ribeiro de Souza,ES,Particular,2025-08-18
+497,Sr. Benício Oliveira,M,2020-05-24,5,0-17,da Cunha,DF,Amil,2024-11-13
+498,Emanuel da Luz,F,1938-05-02,87,61+,Rocha do Amparo,PB,Bradesco Saúde,2021-03-16
+499,Diego Fogaça,M,1955-05-26,70,61+,Azevedo,AL,Amil,2023-09-14
+500,Ana Beatriz Caldeira,F,1945-08-09,80,61+,Melo,BA,Unimed,2022-08-03
+501,Davi Luiz Jesus,M,2017-01-09,8,0-17,Barros da Mata,MG,Unimed,2024-03-21
+502,Sra. Sophie Santos,M,1983-02-21,42,41-60,Rodrigues do Galho,SE,Particular,2025-10-08
+503,Emanuella Fernandes,M,1965-01-17,60,41-60,da Luz,PI,SulAmérica,2022-08-14
+504,Isabelly Porto,F,1963-05-21,62,61+,Costa,PB,Particular,2024-08-20
+505,Davi Araújo,M,1952-05-29,73,61+,Almeida,SE,Particular,2025-10-06
+506,Theo Porto,M,2010-01-19,15,0-17,Ribeiro,MS,Particular,2021-01-01
+507,Bernardo Moreira,F,1978-03-09,47,41-60,Jesus,CE,Particular,2022-12-22
+508,Ana Carolina Souza,M,2013-09-27,12,0-17,Jesus do Campo,MA,Bradesco Saúde,2023-12-25
+509,Dr. Ian Azevedo,F,2017-10-31,8,0-17,Fogaça,ES,Bradesco Saúde,2021-12-25
+510,Lavínia Fernandes,F,2003-02-16,22,18-25,Farias Grande,RR,Amil,2024-12-02
+511,Enzo da Paz,M,2004-05-07,21,18-25,Costa da Mata,BA,Unimed,2022-04-06
+512,Evelyn Cavalcanti,F,2023-02-28,2,0-17,Alves,BA,Particular,2025-08-19
+513,Eduardo Silva,M,2014-11-30,10,0-17,da Conceição Alegre,PR,Amil,2021-01-13
+514,Bárbara Farias,F,2003-08-31,22,18-25,da Mota,CE,Unimed,2022-09-26
+515,Julia Gonçalves,F,1947-06-29,78,61+,Cardoso,PR,SulAmérica,2022-08-05
+516,Vinicius Moura,M,1956-11-04,68,61+,das Neves de Goiás,CE,Bradesco Saúde,2021-06-09
+517,Dra. Isabella Farias,F,1984-03-15,41,41-60,Ramos de Dias,SE,Unimed,2023-11-16
+518,Davi Lucas Barbosa,F,1995-01-06,30,26-40,Jesus,RS,SulAmérica,2023-10-02
+519,Maria Cecília Vieira,F,1944-12-02,80,61+,Duarte,AL,Unimed,2024-08-20
+520,Sra. Ana Vitória Moreira,F,1956-06-11,69,61+,Dias Alegre,RR,Bradesco Saúde,2022-08-21
+521,Pedro Costela,F,2012-05-06,13,0-17,Sales,AC,Bradesco Saúde,2025-08-17
+522,Nicolas da Costa,M,1953-06-21,72,61+,Nogueira,RR,Amil,2022-05-05
+523,Pedro Miguel Castro,F,1971-01-05,54,41-60,Mendes de Santos,MA,Particular,2023-06-15
+524,Sabrina Mendes,M,2001-10-27,24,18-25,Costela do Oeste,DF,Unimed,2022-12-29
+525,Nathan Barros,F,1999-12-29,25,18-25,Sales,MG,Unimed,2022-08-25
+526,Daniel Cunha,M,1999-05-13,26,26-40,da Cunha,PA,SulAmérica,2022-11-06
+527,Ana Júlia da Paz,M,1975-02-22,50,41-60,Araújo,PB,Bradesco Saúde,2021-09-13
+528,Nicolas Pires,F,1936-12-16,88,61+,Moraes,AM,Unimed,2021-04-14
+529,Srta. Eloah Costela,F,1956-02-07,69,61+,da Rocha do Galho,SP,Bradesco Saúde,2024-07-11
+530,Lavínia Silva,F,2023-07-09,2,0-17,da Rocha,AC,Unimed,2023-07-08
+531,Evelyn Melo,M,1959-11-15,65,61+,Santos Grande,AL,Amil,2022-11-04
+532,Benjamin Rezende,F,1998-02-26,27,26-40,Campos,RN,Particular,2024-10-14
+533,Marcela Rezende,M,1947-02-16,78,61+,Cardoso,PI,Unimed,2021-12-18
+534,Mariana da Luz,M,1949-11-06,75,61+,Nogueira do Norte,MT,Bradesco Saúde,2025-02-06
+535,Lucca Costela,M,2019-03-14,6,0-17,Silveira Verde,PA,Amil,2021-08-13
+536,Miguel da Mota,F,1944-11-18,80,61+,Pereira das Flores,ES,Unimed,2024-10-16
+537,Maysa Lopes,F,1980-05-02,45,41-60,Costela,MT,SulAmérica,2022-02-10
+538,Daniel Fernandes,M,2004-06-08,21,18-25,Duarte,PB,Particular,2022-10-05
+539,Sr. Ian Costa,M,1995-12-13,29,26-40,Mendes do Oeste,SE,Unimed,2025-05-04
+540,Marcos Vinicius Almeida,F,1948-11-13,76,61+,Castro,BA,Amil,2020-11-07
+541,Ana Carolina Almeida,M,1958-04-27,67,61+,Ramos do Campo,PB,SulAmérica,2024-10-15
+542,Ana Julia Correia,F,1936-02-12,89,61+,da Costa,AL,Amil,2025-10-16
+543,Lavínia Peixoto,M,1990-06-28,35,26-40,Mendes Verde,AL,Amil,2022-03-31
+544,Srta. Rebeca da Luz,F,1998-10-18,27,26-40,Costela,TO,SulAmérica,2021-06-26
+545,Lorena Nunes,M,1979-05-12,46,41-60,Ribeiro Paulista,SE,Amil,2025-05-07
+546,Ana Clara Cardoso,F,1952-01-16,73,61+,Oliveira,DF,SulAmérica,2024-06-23
+547,Lorena Nunes,M,1997-12-16,27,26-40,Moura da Mata,RS,Unimed,2023-06-14
+548,Luiz Fernando Gomes,F,1960-09-19,65,61+,Araújo Alegre,DF,SulAmérica,2023-11-03
+549,Sophie Fogaça,F,1975-09-12,50,41-60,Barbosa,SE,SulAmérica,2025-09-16
+550,Sr. Pedro Miguel Cavalcanti,M,2006-05-22,19,18-25,Monteiro,PE,Particular,2022-11-11
+551,Ana Laura da Conceição,M,1944-04-25,81,61+,da Cruz,PE,SulAmérica,2025-04-16
+552,Bárbara Costa,F,1970-10-10,55,41-60,Mendes,PB,SulAmérica,2025-02-04
+553,Sra. Beatriz da Costa,M,2008-01-26,17,0-17,Araújo,RO,Unimed,2021-05-24
+554,Thales Rodrigues,F,1979-08-28,46,41-60,Cavalcanti da Praia,BA,Particular,2025-05-09
+555,Thiago da Mata,M,1941-04-01,84,61+,da Mota,RS,Bradesco Saúde,2021-10-29
+556,Maria Clara Porto,F,1958-10-18,67,61+,da Luz da Prata,PA,Unimed,2025-05-08
+557,Fernanda Castro,F,2008-06-04,17,0-17,Novaes,MA,Unimed,2023-01-03
+558,Mirella Barbosa,F,1966-11-28,58,41-60,Teixeira,SE,Bradesco Saúde,2023-07-30
+559,Sra. Sofia Alves,F,2023-05-29,2,0-17,Pinto,AC,SulAmérica,2022-06-30
+560,Vitor Moraes,F,2012-03-05,13,0-17,Moura,TO,Amil,2022-07-16
+561,Valentina Campos,F,1997-08-28,28,26-40,Freitas do Amparo,BA,Particular,2023-05-06
+562,Alexandre Freitas,M,1968-08-10,57,41-60,Porto do Sul,MG,Amil,2021-08-21
+563,Thiago Aragão,M,1944-01-20,81,61+,Barbosa de Silveira,SC,Bradesco Saúde,2023-01-27
+564,Clara Dias,M,1946-11-16,78,61+,Freitas de Peixoto,PI,Unimed,2023-04-28
+565,Ana Beatriz Barros,F,2022-09-23,3,0-17,Moura do Oeste,RS,Unimed,2021-12-09
+566,Eduarda Novaes,F,2003-06-28,22,18-25,da Costa das Pedras,RO,Particular,2024-07-01
+567,Evelyn Aragão,F,1944-03-17,81,61+,Duarte do Galho,MG,Unimed,2023-11-30
+568,Pedro Aragão,F,1983-04-25,42,41-60,Gomes da Mata,PA,Unimed,2022-03-25
+569,Carlos Eduardo Lima,M,1939-07-07,86,61+,Oliveira de Campos,PA,Particular,2021-05-27
+570,Bernardo Silveira,M,1992-05-02,33,26-40,Fogaça,PB,Particular,2022-01-07
+571,Sofia Moraes,F,2001-10-14,24,18-25,Pinto do Campo,MS,Bradesco Saúde,2022-12-14
+572,Kamilly Teixeira,M,1979-07-17,46,41-60,Nunes,PR,Unimed,2025-02-14
+573,Anthony Silveira,M,2021-06-11,4,0-17,Souza,ES,Unimed,2024-01-03
+574,Maria Clara Ramos,F,1944-04-16,81,61+,Gomes,MA,Bradesco Saúde,2022-06-28
+575,Sophia das Neves,M,1968-02-29,57,41-60,Cardoso do Norte,AL,SulAmérica,2021-10-28
+576,Srta. Eduarda Costela,F,1953-08-07,72,61+,Correia,SE,SulAmérica,2023-03-01
+577,Isabel Porto,M,1935-11-30,89,61+,da Mata,MA,SulAmérica,2025-09-19
+578,Erick Lima,F,2018-01-18,7,0-17,da Mota das Flores,MT,Bradesco Saúde,2024-01-19
+579,Emanuella Nunes,F,2016-01-25,9,0-17,Alves,DF,Unimed,2024-06-08
+580,Sra. Luiza Lima,F,1956-03-18,69,61+,Ferreira,AP,Bradesco Saúde,2025-08-17
+581,Beatriz Santos,F,1992-09-04,33,26-40,da Mota do Norte,ES,Bradesco Saúde,2022-07-26
+582,Luna Sales,M,1943-07-17,82,61+,Farias de Rocha,DF,SulAmérica,2024-02-15
+583,Ana Laura Farias,F,1936-06-11,89,61+,Rezende,PI,Amil,2024-03-13
+584,Daniel Silva,F,1983-07-14,42,41-60,Monteiro,MT,Unimed,2022-12-27
+585,Evelyn Costela,F,2004-06-26,21,18-25,Costela das Pedras,MG,SulAmérica,2023-10-24
+586,Catarina Castro,M,2000-01-06,25,18-25,Nascimento,AP,Amil,2021-08-19
+587,Joaquim Martins,F,1982-11-14,42,41-60,Pinto,PE,Amil,2023-10-29
+588,Nathan Ramos,M,1999-03-15,26,26-40,Martins,TO,Particular,2022-07-12
+589,Dr. Noah Moreira,F,1984-11-20,40,26-40,Cardoso,ES,Unimed,2022-05-22
+590,Sr. Arthur Santos,M,1972-10-11,53,41-60,Viana de Almeida,SE,Amil,2022-03-15
+591,Eduarda Caldeira,M,1964-12-26,60,41-60,Araújo das Pedras,GO,SulAmérica,2022-08-15
+592,Augusto Rodrigues,F,1988-03-27,37,26-40,Souza do Norte,RO,Particular,2021-05-29
+593,Yuri Correia,M,1968-09-01,57,41-60,Viana,RO,Unimed,2022-10-09
+594,Sra. Maria Cecília Moura,F,2008-08-03,17,0-17,Cardoso do Galho,PE,Bradesco Saúde,2023-01-03
+595,Isabella Azevedo,F,1987-12-26,37,26-40,da Luz,RO,SulAmérica,2023-01-19
+596,Bárbara Gomes,F,1963-09-02,62,61+,Cardoso,DF,Amil,2025-09-20
+597,Maria Vitória Araújo,M,1957-04-05,68,61+,Porto,RR,Amil,2024-04-07
+598,Gabriel da Paz,M,1935-04-16,90,61+,da Rosa da Mata,RJ,SulAmérica,2022-01-10
+599,Maria Cecília Duarte,F,2017-12-28,7,0-17,Aragão,MS,Amil,2022-12-29
+600,Noah Sales,F,1952-07-15,73,61+,Almeida,MA,Particular,2024-12-01
+601,Pietro da Luz,M,1940-06-11,85,61+,Rezende,RO,Unimed,2023-01-15
+602,Clara da Cunha,F,1939-10-21,86,61+,Cardoso,RR,Particular,2023-12-04
+603,Ana Sophia da Luz,F,1952-06-17,73,61+,Nunes,AP,Amil,2022-10-18
+604,Renan Ribeiro,F,1939-06-09,86,61+,Nunes de da Rosa,PA,Bradesco Saúde,2023-08-18
+605,Ian Ramos,M,2004-08-11,21,18-25,Peixoto,PR,Unimed,2023-12-22
+606,Lucas Gabriel Nogueira,M,2002-10-17,23,18-25,Alves,RN,Unimed,2025-05-21
+607,Isis Rocha,M,2000-09-24,25,18-25,Campos,RO,SulAmérica,2021-10-06
+608,Theo Araújo,F,2011-11-04,13,0-17,Moraes,PR,SulAmérica,2021-01-20
+609,Enzo Gabriel Cavalcanti,F,1982-11-12,42,41-60,Rodrigues do Sul,SC,Bradesco Saúde,2021-04-30
+610,Nicolas Azevedo,F,1995-11-23,29,26-40,Dias de Minas,PR,Unimed,2022-01-01
+611,Dr. Daniel Cunha,M,2006-06-22,19,18-25,Lima,AP,Bradesco Saúde,2021-11-07
+612,Marcelo Teixeira,F,1935-01-23,90,61+,da Mota,RO,SulAmérica,2023-10-15
+613,Sofia da Rosa,F,1957-01-31,68,61+,Vieira,RO,SulAmérica,2023-08-26
+614,Helena Oliveira,F,1947-01-29,78,61+,Campos,SC,Unimed,2021-11-06
+615,Bernardo Freitas,F,2021-05-10,4,0-17,Lopes de Moura,RJ,Particular,2024-10-04
+616,Dra. Lavínia Lima,M,1939-09-30,86,61+,Silva da Mata,AP,Amil,2025-02-03
+617,Vitor Gabriel Castro,M,1998-06-18,27,26-40,Correia de Novaes,SE,SulAmérica,2025-02-12
+618,Bárbara da Rocha,F,1971-12-25,53,41-60,Campos de Sales,PA,SulAmérica,2024-01-13
+619,Ana Julia Moura,M,1972-02-22,53,41-60,Monteiro do Sul,BA,Particular,2024-10-20
+620,Maria Sophia Carvalho,M,1938-01-17,87,61+,Melo,AC,Particular,2022-05-25
+621,Gabriela das Neves,F,1992-09-10,33,26-40,da Mata,RS,Bradesco Saúde,2025-09-30
+622,Vitor Fogaça,F,2024-07-20,1,0-17,Caldeira de Barros,RJ,Bradesco Saúde,2022-03-01
+623,Gustavo Nascimento,M,2021-01-14,4,0-17,Nunes do Campo,SC,Amil,2024-11-28
+624,Ana Vitória da Cunha,F,1951-02-18,74,61+,Santos,RJ,Amil,2023-10-07
+625,Ana Luiza Rocha,M,1967-02-14,58,41-60,Cardoso,CE,Unimed,2023-07-13
+626,Anthony Campos,F,1968-08-10,57,41-60,Correia dos Dourados,RN,Bradesco Saúde,2024-12-06
+627,Srta. Gabriela da Rosa,M,1994-03-12,31,26-40,Moraes das Pedras,MA,SulAmérica,2025-02-17
+628,Maria Sophia Costa,F,1978-05-08,47,41-60,Silva de Goiás,RS,Bradesco Saúde,2025-03-14
+629,Cauã Oliveira,M,1956-03-05,69,61+,Cardoso das Pedras,SP,SulAmérica,2025-04-27
+630,Leandro Sales,M,2003-03-23,22,18-25,da Conceição do Sul,BA,Particular,2021-12-02
+631,Vitória da Conceição,M,1981-09-22,44,41-60,Pinto,DF,Bradesco Saúde,2024-09-05
+632,Stephany Freitas,F,2000-03-12,25,18-25,Sales,ES,Particular,2024-02-24
+633,Alice Barbosa,M,1997-05-12,28,26-40,Viana,RR,Amil,2023-10-06
+634,Dr. Paulo Farias,M,1938-02-05,87,61+,Silveira,DF,Amil,2025-07-29
+635,Thiago Aragão,F,1960-11-15,64,61+,Barbosa,PR,Unimed,2022-09-20
+636,Dra. Marcela Costa,F,1941-12-28,83,61+,Costa das Flores,MG,Bradesco Saúde,2023-06-03
+637,Maitê Nogueira,M,2017-08-17,8,0-17,Dias do Sul,RS,Particular,2025-01-31
+638,Laís Carvalho,M,1968-06-15,57,41-60,Moura,PE,SulAmérica,2025-03-06
+639,Miguel Nogueira,F,1956-08-01,69,61+,Nascimento do Norte,MS,Amil,2024-03-18
+640,Luiz Gustavo Dias,F,1969-01-25,56,41-60,da Rocha,AP,Amil,2021-11-05
+641,Dr. João Nunes,F,1994-03-12,31,26-40,Ramos,AP,SulAmérica,2022-05-14
+642,Arthur Gomes,F,2013-07-08,12,0-17,Costa,BA,Particular,2024-12-10
+643,Luana Nunes,F,1970-12-23,54,41-60,Costela,BA,Particular,2024-11-16
+644,Maria Sophia Lopes,M,1988-03-18,37,26-40,da Rosa,CE,Bradesco Saúde,2023-11-01
+645,Dr. João Guilherme Sales,F,1948-04-27,77,61+,Dias,AL,Bradesco Saúde,2022-12-15
+646,Manuela Cavalcanti,M,1949-10-04,76,61+,Peixoto das Pedras,RS,Unimed,2022-12-19
+647,Arthur da Mota,M,1942-11-16,82,61+,Nogueira,SC,Amil,2025-08-07
+648,Maria Sophia Costa,M,1941-07-22,84,61+,Campos,AM,Bradesco Saúde,2022-06-09
+649,Maria Vitória da Rocha,F,1953-11-12,71,61+,Azevedo,PR,Particular,2022-04-24
+650,Caio das Neves,M,2015-12-13,9,0-17,Nunes da Praia,TO,SulAmérica,2023-10-10
+651,Nicolas Santos,M,2025-06-20,0,0-17,Nunes da Serra,RR,Particular,2021-04-09
+652,Igor Cardoso,F,1976-04-19,49,41-60,Caldeira de Goiás,SE,Amil,2024-08-09
+653,Srta. Maria Alice Souza,M,1961-03-12,64,61+,Farias de Martins,MG,Particular,2025-03-08
+654,Joaquim Farias,M,1976-01-02,49,41-60,Pinto de Martins,TO,Unimed,2022-03-17
+655,Rodrigo Ribeiro,F,1978-07-14,47,41-60,Monteiro de Goiás,AC,Amil,2022-05-07
+656,Luna Lopes,M,1976-04-10,49,41-60,Cunha,RJ,SulAmérica,2021-08-19
+657,Maitê Araújo,M,1981-04-02,44,41-60,Novaes de Ferreira,MS,Unimed,2022-12-29
+658,Dra. Caroline Silva,M,1974-04-20,51,41-60,Santos da Praia,PI,Amil,2023-09-19
+659,Sra. Daniela Martins,F,1965-01-11,60,41-60,Costa Alegre,PI,SulAmérica,2025-02-23
+660,Leandro Cunha,F,1972-09-14,53,41-60,Santos de Goiás,RS,Unimed,2021-11-02
+661,André Teixeira,F,1970-05-24,55,41-60,da Paz,RJ,Unimed,2024-11-14
+662,Pietro Alves,M,1937-08-02,88,61+,da Costa do Galho,PB,Amil,2024-09-02
+663,Maria Fernanda Aragão,M,1975-02-13,50,41-60,Ferreira de Correia,CE,Bradesco Saúde,2024-12-03
+664,Maria Clara Campos,F,1937-12-16,87,61+,Viana Alegre,RR,Unimed,2022-11-27
+665,Leandro Nogueira,M,1988-11-17,36,26-40,da Cunha,BA,Unimed,2022-10-18
+666,Sr. Renan Nogueira,M,2008-11-02,16,0-17,Sales do Amparo,PE,SulAmérica,2025-10-04
+667,Nicole Farias,F,2009-08-10,16,0-17,Costela,MT,Particular,2025-06-04
+668,Srta. Clara Aragão,F,2025-06-20,0,0-17,Costela,GO,Amil,2023-03-04
+669,Miguel Cavalcanti,M,2001-03-09,24,18-25,Barbosa da Praia,PA,Amil,2020-12-21
+670,Paulo Costa,M,2022-02-21,3,0-17,Cardoso de Goiás,PA,Bradesco Saúde,2022-09-26
+671,Sra. Olivia Viana,M,1957-01-16,68,61+,Lopes da Mata,PE,Bradesco Saúde,2021-07-05
+672,Davi Luiz Ribeiro,F,1993-11-03,31,26-40,da Paz de Pereira,MT,Amil,2025-06-22
+673,Miguel Nunes,F,1981-12-13,43,41-60,Alves de Goiás,AM,Bradesco Saúde,2023-03-19
+674,Bianca Costela,F,2009-05-25,16,0-17,Souza,MT,SulAmérica,2020-12-22
+675,Srta. Caroline Nascimento,F,2009-10-11,16,0-17,Cardoso,PB,Amil,2022-02-13
+676,Maria Luiza Silva,M,1997-04-16,28,26-40,Ramos,SE,Bradesco Saúde,2023-03-24
+677,Sra. Gabriela da Conceição,F,1994-11-20,30,26-40,Melo,AP,Amil,2024-02-28
+678,Pedro Henrique Gomes,F,1990-08-21,35,26-40,Viana,AM,Particular,2023-10-10
+679,Dra. Alexia Caldeira,F,1985-04-03,40,26-40,Dias,AL,Unimed,2024-11-30
+680,Bruno Carvalho,F,1968-06-09,57,41-60,Silva de Moreira,RN,Amil,2022-03-19
+681,Calebe Viana,F,1974-01-04,51,41-60,Cunha do Galho,PB,Unimed,2023-05-10
+682,Davi Luiz das Neves,M,1938-03-16,87,61+,Nunes,DF,Bradesco Saúde,2025-04-27
+683,Lucas Peixoto,M,1957-02-16,68,61+,Viana,SP,Unimed,2025-05-14
+684,Bernardo da Costa,F,1945-06-11,80,61+,Novaes,BA,Amil,2022-03-22
+685,Ryan Campos,M,1999-05-26,26,26-40,Moreira,PB,Particular,2024-02-10
+686,Ana Laura Moraes,F,2006-11-09,18,18-25,Campos,PB,Bradesco Saúde,2021-06-23
+687,Heloísa Teixeira,F,1937-02-15,88,61+,Fernandes dos Dourados,MT,Amil,2023-07-21
+688,Letícia da Mata,M,1990-11-13,34,26-40,Porto dos Dourados,SC,Bradesco Saúde,2021-07-08
+689,Murilo Novaes,M,1961-07-23,64,61+,Silva,SC,SulAmérica,2023-12-22
+690,Dr. Vitor Oliveira,F,1937-08-22,88,61+,Pires,SC,Unimed,2022-08-15
+691,Samuel Porto,F,1982-01-15,43,41-60,da Paz Verde,PE,SulAmérica,2024-11-03
+692,Gustavo Silveira,F,1948-07-12,77,61+,Freitas das Pedras,SE,Amil,2022-06-10
+693,Kamilly Correia,M,1984-09-06,41,41-60,da Costa,SP,Particular,2025-06-10
+694,Dra. Heloísa Lima,F,2011-07-29,14,0-17,Teixeira de Silveira,SC,Bradesco Saúde,2024-04-22
+695,Raul Monteiro,F,1944-06-13,81,61+,Oliveira,MG,Unimed,2023-11-14
+696,Srta. Sofia Silva,F,1945-06-12,80,61+,Pires do Oeste,TO,Bradesco Saúde,2021-10-17
+697,Maria Fernanda Ferreira,M,1975-09-07,50,41-60,Rocha de da Costa,RN,Amil,2025-07-10
+698,Lucca Lima,F,1962-02-07,63,61+,Costa,TO,Bradesco Saúde,2023-08-10
+699,Ana Rezende,F,1983-09-22,42,41-60,Martins do Amparo,AM,Unimed,2022-12-10
+700,Sra. Giovanna Duarte,M,1947-12-10,77,61+,da Costa,SP,Amil,2025-05-15
+701,Emanuella Martins,F,1944-11-04,80,61+,Nogueira Verde,MG,Bradesco Saúde,2025-06-08
+702,Rafael Barros,F,1989-12-17,35,26-40,Sales Grande,PA,Particular,2021-01-19
+703,Samuel Lopes,M,1972-11-26,52,41-60,da Costa Alegre,AP,Amil,2021-07-06
+704,Enrico Rocha,F,2018-02-19,7,0-17,Correia Verde,PI,Amil,2022-11-02
+705,Maria Cecília Pinto,M,1979-11-26,45,41-60,Aragão,AM,Particular,2021-05-27
+706,Davi Lucca Teixeira,M,2017-12-04,7,0-17,Freitas,MG,SulAmérica,2025-08-17
+707,Rodrigo Ramos,F,1969-05-19,56,41-60,Pereira,PI,Unimed,2024-07-03
+708,Sra. Maria Rocha,F,2002-09-20,23,18-25,Silva,MT,SulAmérica,2022-04-30
+709,Juan Fernandes,F,2010-04-16,15,0-17,da Mota do Campo,PA,Bradesco Saúde,2021-04-10
+710,Sra. Luiza Cardoso,F,1951-08-04,74,61+,Ramos,CE,Particular,2025-10-01
+711,Enzo Gabriel Cavalcanti,M,1943-11-18,81,61+,Cunha,TO,SulAmérica,2021-02-27
+712,Maria Barros,F,1976-11-19,48,41-60,Alves,PE,Amil,2021-09-11
+713,Maysa Gonçalves,M,1998-04-30,27,26-40,Campos,SC,Bradesco Saúde,2025-08-13
+714,Davi Cunha,F,2008-04-22,17,0-17,Moura,GO,Bradesco Saúde,2023-10-10
+715,Isabella Ferreira,F,2010-07-13,15,0-17,da Cruz,SP,SulAmérica,2024-10-03
+716,Lavínia Freitas,F,1990-12-04,34,26-40,Monteiro do Sul,MT,SulAmérica,2021-03-28
+717,André Castro,M,1972-05-20,53,41-60,Ribeiro Paulista,RR,Particular,2024-09-10
+718,Sr. João Gabriel da Cruz,F,1993-07-29,32,26-40,Duarte de Melo,RJ,Unimed,2023-10-29
+719,Renan Nascimento,F,1941-01-26,84,61+,Viana,RS,SulAmérica,2024-10-25
+720,Mariana Duarte,F,1937-03-08,88,61+,Souza,GO,SulAmérica,2024-04-18
+721,Srta. Joana Oliveira,F,2009-01-01,16,0-17,Souza,PR,Amil,2021-07-02
+722,Kamilly Lopes,M,1990-11-13,34,26-40,Pires,DF,Bradesco Saúde,2024-08-30
+723,Lucca Correia,F,2001-09-09,24,18-25,Nunes das Pedras,SP,Unimed,2025-06-14
+724,Maria Sophia Gonçalves,M,1935-06-13,90,61+,Rocha,AP,Amil,2021-10-06
+725,Luiz Gustavo Rocha,M,1967-03-14,58,41-60,Silveira do Norte,AC,Particular,2021-12-21
+726,João Viana,M,1959-08-27,66,61+,Almeida de Novaes,DF,Particular,2021-02-05
+727,Benjamin da Cruz,M,2005-04-03,20,18-25,Cardoso,ES,SulAmérica,2023-02-05
+728,Ian da Cunha,M,1987-08-20,38,26-40,Nascimento do Campo,RJ,SulAmérica,2024-06-26
+729,Breno Farias,M,1947-05-28,78,61+,Ribeiro de Goiás,PE,Particular,2023-08-01
+730,Nicole Melo,F,1968-09-02,57,41-60,Cunha,SC,SulAmérica,2025-03-21
+731,Vitor Hugo da Mata,M,2013-12-16,11,0-17,Pinto de Goiás,DF,Unimed,2025-08-15
+732,Sr. Vicente Alves,M,1958-08-04,67,61+,da Rosa,RS,SulAmérica,2024-09-13
+733,Sra. Yasmin Farias,M,1956-01-05,69,61+,da Mata,AP,Bradesco Saúde,2021-02-13
+734,Agatha da Luz,F,2021-06-01,4,0-17,da Paz,ES,SulAmérica,2020-12-26
+735,Clara Castro,F,1987-03-20,38,26-40,Moraes de da Cruz,CE,Amil,2025-07-23
+736,Sra. Luana Peixoto,M,2011-06-20,14,0-17,Carvalho,SE,Unimed,2023-11-11
+737,Vitor Farias,F,2009-05-04,16,0-17,Campos da Serra,PR,Amil,2024-05-27
+738,Raul Silva,M,1997-01-03,28,26-40,Oliveira,MS,Amil,2021-10-27
+739,Miguel Lopes,M,2008-12-21,16,0-17,Melo de Moura,PB,Bradesco Saúde,2022-07-21
+740,Dra. Catarina da Mata,F,1995-06-20,30,26-40,da Mota do Galho,PR,Unimed,2024-11-20
+741,Heloísa Nogueira,M,2005-05-24,20,18-25,Azevedo,PA,Unimed,2025-01-12
+742,Raul Pereira,F,2012-05-08,13,0-17,Moraes das Pedras,AP,Unimed,2021-12-23
+743,Laura Caldeira,F,2003-06-23,22,18-25,Novaes,ES,Unimed,2024-02-13
+744,Luiz Gustavo Cardoso,M,2019-07-23,6,0-17,da Conceição da Mata,PR,Unimed,2022-01-16
+745,Dr. Luiz Gustavo Santos,M,1998-11-23,26,26-40,Cardoso,RJ,Bradesco Saúde,2022-08-13
+746,Pietro Barbosa,F,1956-01-29,69,61+,Jesus de da Luz,BA,SulAmérica,2020-11-18
+747,Thiago Rocha,M,2024-06-08,1,0-17,Cunha Grande,PA,Amil,2023-06-25
+748,Srta. Maria Sophia Porto,M,1987-06-21,38,26-40,da Mota,SC,Unimed,2022-04-17
+749,Lucca das Neves,M,2024-12-06,0,0-17,Mendes Paulista,RJ,SulAmérica,2022-08-21
+750,Sr. Guilherme Barbosa,F,1994-10-04,31,26-40,Costela,BA,SulAmérica,2021-11-12
+751,Diogo Cunha,F,1965-01-31,60,41-60,Nunes de Martins,RS,Amil,2023-09-06
+752,Isabel da Mata,M,1941-11-01,84,61+,Freitas,AC,Bradesco Saúde,2024-05-26
+753,Milena Castro,F,1973-09-14,52,41-60,Gomes,MA,Particular,2024-03-08
+754,Vitor Viana,F,1996-05-07,29,26-40,Freitas,MS,Particular,2022-05-06
+755,Catarina da Rosa,F,2009-08-04,16,0-17,Cunha,PB,SulAmérica,2023-08-16
+756,Gabrielly Sales,F,2014-04-28,11,0-17,Rocha,GO,Amil,2025-05-05
+757,Alexandre Caldeira,F,1996-08-16,29,26-40,Cardoso,RS,Particular,2022-09-06
+758,Lívia Novaes,M,1971-08-01,54,41-60,Cardoso Alegre,PE,SulAmérica,2025-03-16
+759,Dr. Vicente Alves,M,2021-01-20,4,0-17,Silveira,SC,Bradesco Saúde,2025-01-15
+760,Marcos Vinicius Cunha,M,1942-03-09,83,61+,Ramos,RJ,Particular,2025-09-13
+761,Lorena Pinto,F,1945-03-18,80,61+,Gomes do Galho,RS,SulAmérica,2024-04-29
+762,Benício Fogaça,F,1978-09-27,47,41-60,Ramos,BA,SulAmérica,2022-11-15
+763,Sarah Teixeira,M,1973-07-30,52,41-60,Correia de Santos,AL,Unimed,2024-10-05
+764,Leonardo Correia,F,1960-05-12,65,61+,da Mota de Goiás,PR,Bradesco Saúde,2022-12-27
+765,Kaique da Mata,M,1956-04-26,69,61+,Nunes,DF,Unimed,2021-03-27
+766,João Felipe Alves,M,1950-09-25,75,61+,Pires,MT,Amil,2022-09-14
+767,Natália da Conceição,M,2006-11-11,18,18-25,Aragão Alegre,BA,Unimed,2021-05-28
+768,Dra. Mariana Cavalcanti,F,2004-02-14,21,18-25,da Rocha,MA,Unimed,2024-04-24
+769,Larissa Cardoso,F,2005-08-14,20,18-25,da Rosa,MS,Particular,2025-02-27
+770,Vicente da Mata,M,1959-03-10,66,61+,Ribeiro da Mata,PB,SulAmérica,2022-04-09
+771,Lucca Novaes,M,2002-07-31,23,18-25,Caldeira do Norte,ES,Bradesco Saúde,2024-04-17
+772,Luiz Miguel Pires,M,2001-06-13,24,18-25,da Rosa de Minas,AM,Unimed,2023-07-11
+773,Maysa da Conceição,M,2000-11-26,24,18-25,Santos das Flores,PB,Bradesco Saúde,2021-08-28
+774,André Ferreira,F,1979-05-26,46,41-60,Jesus das Flores,ES,Unimed,2021-02-15
+775,Cauã Castro,F,1948-03-05,77,61+,Peixoto da Mata,PR,Amil,2024-05-02
+776,Ana Lívia Lima,M,2025-08-02,0,0-17,Campos,AM,Unimed,2024-05-27
+777,Esther Gomes,M,1974-06-07,51,41-60,Santos do Amparo,MG,Particular,2023-06-10
+778,Helena Teixeira,F,1990-02-04,35,26-40,Peixoto de Melo,PE,SulAmérica,2021-09-10
+779,Dra. Catarina Porto,F,1967-06-23,58,41-60,da Luz,PB,Amil,2021-09-20
+780,Nicole Carvalho,M,1966-02-21,59,41-60,Nogueira Verde,BA,Unimed,2023-07-22
+781,João Vitor Aragão,M,1972-09-01,53,41-60,Fogaça,ES,Bradesco Saúde,2024-05-06
+782,Mariana Costa,M,1954-06-16,71,61+,Cavalcanti de Cavalcanti,MG,Amil,2022-01-21
+783,Dr. Davi Luiz Cardoso,F,1980-12-06,44,41-60,da Paz de Moreira,MA,Amil,2021-07-08
+784,Sr. Kaique Costa,F,2002-10-17,23,18-25,Alves dos Dourados,PA,Unimed,2025-09-16
+785,Sr. Lorenzo da Cruz,F,1995-09-01,30,26-40,Araújo do Oeste,RS,Amil,2023-01-24
+786,Danilo Barros,M,2004-03-27,21,18-25,Carvalho,AC,Bradesco Saúde,2025-08-01
+787,Dr. Yago Monteiro,M,1975-01-04,50,41-60,Rocha,MS,Amil,2021-02-24
+788,Nathan Freitas,F,2018-09-03,7,0-17,Mendes,AM,Bradesco Saúde,2023-01-09
+789,Bernardo Ribeiro,F,1995-09-14,30,26-40,Viana de Araújo,BA,Unimed,2024-09-14
+790,João Azevedo,M,1967-04-28,58,41-60,Nunes,AP,SulAmérica,2025-01-25
+791,Emanuelly Oliveira,F,2021-01-22,4,0-17,Pires do Sul,PR,Amil,2022-04-13
+792,Alexandre Cavalcanti,F,1970-01-23,55,41-60,Carvalho,AL,SulAmérica,2022-02-22
+793,Gustavo Henrique da Mata,M,2007-05-03,18,18-25,Rodrigues de Minas,MG,Bradesco Saúde,2022-01-02
+794,Dr. Luiz Gustavo Gomes,F,1942-03-03,83,61+,Moraes,DF,Amil,2022-12-03
+795,Mirella Novaes,M,1971-10-31,54,41-60,da Cunha da Prata,PB,Particular,2021-05-20
+796,Dra. Marina Nunes,M,1999-05-07,26,26-40,da Mota,SC,SulAmérica,2025-10-09
+797,Sra. Melissa Mendes,M,1955-04-10,70,61+,Vieira Paulista,AL,Amil,2022-11-16
+798,Srta. Luna Campos,M,1982-10-07,43,41-60,Mendes,AC,SulAmérica,2021-03-11
+799,Sra. Maria Sophia Porto,M,2016-07-20,9,0-17,Jesus de Minas,RO,Amil,2024-01-16
+800,Daniel Lopes,M,2001-10-30,24,18-25,Lima,RS,Unimed,2025-01-31
